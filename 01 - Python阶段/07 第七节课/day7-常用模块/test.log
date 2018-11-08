@@ -1,0 +1,5 @@
+Fri, 30 Mar 2018 16:03:50 err.py[line:8] DEBUG debug message
+Fri, 30 Mar 2018 16:03:50 err.py[line:9] INFO info message
+Fri, 30 Mar 2018 16:03:50 err.py[line:10] WARNING warning message
+Fri, 30 Mar 2018 16:03:50 err.py[line:11] ERROR error message
+Fri, 30 Mar 2018 16:03:50 err.py[line:12] CRITICAL critical message
