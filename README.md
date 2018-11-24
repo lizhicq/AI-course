@@ -1,3 +1,8 @@
 # AI-course
 AI cource lecture notes and home work 
-how to commit a large file?
+
+
+1. How to ignore large files?
+
+git add -u 
+git reset folder-name
