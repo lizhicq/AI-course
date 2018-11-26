@@ -1,3 +1,11 @@
 # AI-course
 AI cource lecture notes and home work 
-how to commit a large file?
+
+
+1. How to ignore large files?
+
+git add -u 
+git reset folder-name
+
+
+2. Pycharm ipython not sync, save it on chrome and sync it on pycharm
