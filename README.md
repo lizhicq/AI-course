@@ -17,3 +17,6 @@ git reset --hard HEAD^ # return to last version before head
 
 git reset --hard 4435a # return to specific version\
 
+4. git merge zhi_test # merge change of branch
+
+5. conflicts 
