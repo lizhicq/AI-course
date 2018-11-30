@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbb5504e-c0eb-414f-bc49-4b90292662aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/04-linearalgebra/PCA_SVD_image.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/04-linearalgebra/PCA_SVD_image.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/.ipynb_checkpoints/red_hat-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/.ipynb_checkpoints/red_hat-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI_Course_hw01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI_Course_hw01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/input/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,41 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AI_Course$AI_Course.coverage" NAME="AI-Course Coverage Results" MODIFIED="1542859682598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/AI_Course$AI_Course.coverage" NAME="AI-Course Coverage Results" MODIFIED="1543542134303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI_Course_hw01.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/04-linearalgebra/PCA_SVD_image.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -66,6 +38,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>D://kaggle//PredictingRedHatBusinessValue//data//</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>input/</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -73,14 +53,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/03 - 机器学习之数学基础/homework/hw1.ipynb" />
-        <option value="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" />
         <option value="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.py" />
+        <option value="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2382" />
-    <option name="width" value="1362" />
+    <option name="width" value="1036" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -91,6 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,23 +125,15 @@
               <item name="03 - 机器学习之数学基础" type="462c0819:PsiDirectoryNode" />
               <item name="hw1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AI-Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI-Course" type="462c0819:PsiDirectoryNode" />
-              <item name="03 - 机器学习之数学基础" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1" type="462c0819:PsiDirectoryNode" />
-              <item name="input" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algo-Manual" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -213,6 +185,7 @@
       <updated>1541721021449</updated>
       <workItem from="1542768221867" duration="29000" />
       <workItem from="1542849023623" duration="3807000" />
+      <workItem from="1543541817598" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="unzip">
       <created>1541721688453</created>
@@ -232,7 +205,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3836000" />
+    <option name="totallyTimeSpent" value="4953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,13 +217,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2382" y="0" width="1362" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1036" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21198156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28688523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32976282" />
@@ -263,6 +235,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32976282" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -321,14 +294,7 @@
     <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/homework/hw1.ipynb" />
     <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/03 第三节（11.3）/随机梯度下降.ipynb" />
     <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/03 第三节（11.3）/Monty_Hall.ipynb" />
-    <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI_Course_hw01.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb">
+    <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/04-linearalgebra/PCA_SVD_image.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -337,7 +303,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
+        <state relative-caret-position="19">
           <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -345,7 +311,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/04-linearalgebra/PCA_SVD_image.ipynb">
+    <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI_Course_hw01.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
