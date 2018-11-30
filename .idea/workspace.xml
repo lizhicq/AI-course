@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbb5504e-c0eb-414f-bc49-4b90292662aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/04-linearalgebra/PCA_SVD_image.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/04-linearalgebra/PCA_SVD_image.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/.ipynb_checkpoints/red_hat-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/.ipynb_checkpoints/red_hat-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI_Course_hw01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI_Course_hw01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/input/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/AI-Course- hw01.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -125,6 +124,20 @@
               <item name="03 - 机器学习之数学基础" type="462c0819:PsiDirectoryNode" />
               <item name="hw1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AI-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="03 - 机器学习之数学基础" type="462c0819:PsiDirectoryNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="03 - 机器学习之数学基础" type="462c0819:PsiDirectoryNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -134,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -185,7 +198,7 @@
       <updated>1541721021449</updated>
       <workItem from="1542768221867" duration="29000" />
       <workItem from="1542849023623" duration="3807000" />
-      <workItem from="1543541817598" duration="1117000" />
+      <workItem from="1543541817598" duration="2235000" />
     </task>
     <task id="LOCAL-00001" summary="unzip">
       <created>1541721688453</created>
@@ -201,11 +214,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541768105010</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="redhat hw1">
+      <created>1543549850394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543549850394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="redhat hw1">
+      <created>1543549873008</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543549873008</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4953000" />
+    <option name="totallyTimeSpent" value="6071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,7 +315,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="unzip" />
-    <option name="LAST_COMMIT_MESSAGE" value="unzip" />
+    <MESSAGE value="redhat hw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="redhat hw1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/homework/hw1.ipynb" />
@@ -315,6 +343,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/output/without_leak.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
         </state>
       </provider>
     </entry>
