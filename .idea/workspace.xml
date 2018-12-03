@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbb5504e-c0eb-414f-bc49-4b90292662aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AI-Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI-Course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -60,8 +55,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2725" />
-    <option name="width" value="1612" />
+    <option name="x" value="-3840" />
+    <option name="width" value="1115" />
     <option name="height" value="1600" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -133,6 +128,11 @@
               <item name="03 - 机器学习之数学基础" type="462c0819:PsiDirectoryNode" />
               <item name="hw1" type="462c0819:PsiDirectoryNode" />
               <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Reference" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,9 +207,6 @@
       <module name="AI-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 - 机器学习之数学基础/hw1" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -246,7 +243,7 @@
       <workItem from="1543541817598" duration="2235000" />
       <workItem from="1543582908006" duration="411000" />
       <workItem from="1543791223639" duration="2435000" />
-      <workItem from="1543796523305" duration="13000" />
+      <workItem from="1543796523305" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="unzip">
       <created>1541721688453</created>
@@ -276,11 +273,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543549873008</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="redhat hw1">
+      <created>1543796583634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543796583634</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8930000" />
+    <option name="totallyTimeSpent" value="9615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,9 +296,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2725" y="0" width="1612" height="1600" extended-state="0" />
+    <frame x="-3840" y="0" width="1115" height="1600" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11984536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17630331" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -408,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/03 - 机器学习之数学基础/hw1/red_hat.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
+          <selected id="6" />
         </state>
       </provider>
     </entry>
