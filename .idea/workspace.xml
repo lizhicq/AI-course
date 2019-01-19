@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbb5504e-c0eb-414f-bc49-4b90292662aa" name="Default Changelist" comment="" />
+    <list default="true" id="fbb5504e-c0eb-414f-bc49-4b90292662aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/train_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/train_1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/总结整理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/总结整理.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +20,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,10 +52,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3610" />
-    <option name="y" value="151" />
-    <option name="width" value="2075" />
-    <option name="height" value="1462" />
+    <option name="x" value="67" />
+    <option name="y" value="275" />
+    <option name="width" value="964" />
+    <option name="height" value="1444" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,8 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,13 +238,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3610" y="151" width="2075" height="1462" extended-state="0" />
+    <frame x="67" y="275" width="964" height="1444" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25210917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25185972" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -251,11 +254,13 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
