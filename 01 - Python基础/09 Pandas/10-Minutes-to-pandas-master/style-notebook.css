@@ -1,0 +1,15 @@
+h1 {
+    color: white;
+    background-color: black;
+    padding: 0.5em;   
+    font-size: 12pt
+}
+h2 {
+    color: white;
+    background-color: black;
+    padding: 0.5em;   
+    font-size:8pt
+}
+div.text_cell_render{
+    background-color:gray;
+}
