@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import time
 from sklearn.model_selection import train_test_split as tts
 from sklearn.metrics import mean_squared_error
 
@@ -26,3 +27,15 @@ def benchmark1(model, testset, label):
     print('RMSE:',rmse)
     print('LRMSE:',lrmse)
     return lrmse
+
+def timeit(method):
+    
+    def timed(*args, **kw):
+        ts = time.time()
+        result = method(*args, **kw)
+        te = time.time()
+        
+        print('%r (%r, %r) %2.2f sec' % (method.__name__, args, kw, te - ts))
+        return result
+    
+    return timed
