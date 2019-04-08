@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbb5504e-c0eb-414f-bc49-4b90292662aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/train_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/data/train_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/总结整理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04 - 机器学习实战/W1 - LA House Price/总结整理.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fbb5504e-c0eb-414f-bc49-4b90292662aa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +47,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="275" />
-    <option name="width" value="964" />
-    <option name="height" value="1444" />
+    <option name="x" value="1080" />
+    <option name="width" value="1801" />
+    <option name="height" value="1600" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -65,13 +59,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AI-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI-Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algo-Manual" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -179,6 +183,7 @@
       <workItem from="1543791223639" duration="2435000" />
       <workItem from="1543796523305" duration="1437000" />
       <workItem from="1547173825502" duration="681000" />
+      <workItem from="1554314449234" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="unzip">
       <created>1541721688453</created>
@@ -226,7 +231,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11035000" />
+    <option name="totallyTimeSpent" value="11659000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,9 +243,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="275" width="964" height="1444" extended-state="0" />
+    <frame x="1080" y="0" width="1801" height="1600" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25185972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13383113" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
