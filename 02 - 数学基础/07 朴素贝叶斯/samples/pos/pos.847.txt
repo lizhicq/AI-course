@@ -1,3 +1,3 @@
-出行非常方便，离地铁很近，酒店后面就有酒吧一条街，房间还不错没有想象中小，被子超软，很舒服！以后我还会住这里！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:35dc265f4c45c48b8c35d662183abe60c3f6c82db8f3c35d3c890abb2430ad47
+size 172

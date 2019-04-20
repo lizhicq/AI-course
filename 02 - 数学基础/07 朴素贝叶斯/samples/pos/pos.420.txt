@@ -1,3 +1,3 @@
-大堂和房间的装修豪华，很好，距离广州很近，推荐．
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:21f160a467c938b456012a0d689de398bf9e115f5a89d20323961cb2153ae33c
+size 79

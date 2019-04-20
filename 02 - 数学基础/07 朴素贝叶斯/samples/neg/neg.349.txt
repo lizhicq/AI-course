@@ -1,4 +1,3 @@
-房间太旧,太吵.洗手间没有热水,建议携程取消和其合作.
-补充点评 2007年11月11日 ： 服务态度恶劣,言语不是太冲就是冷冰冰的,房间设施陈旧.卫生间小.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0db8a30311b52d2e35ff38a4407830c8ab06cd1f172b0405bc05a785f4b6cf2b
+size 206

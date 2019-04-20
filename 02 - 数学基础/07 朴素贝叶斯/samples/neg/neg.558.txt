@@ -1,3 +1,3 @@
-酒店内有刺鼻的浓味，尤其是过道，不过该酒店在装修。此外，入住前跟酒店确认好的积分累计也事后找借口，说房价太低而不予累计。本人不推荐入住该酒店。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:528b5b324d3f7e24401849209a555a2a5ceb639deab527a6fe22a746918fec52
+size 220

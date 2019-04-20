@@ -1,3 +1,3 @@
-很有趣的酒店,设施什么的都还好了,但是早上我还在睡觉,居然有人拿钥匙开了门就进来了,吓了我一跳,减分不少...
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbea80303fc0bf9a60dcfc29b218b782f43b3e793ded88123a6ad2cac787b8e7
+size 156

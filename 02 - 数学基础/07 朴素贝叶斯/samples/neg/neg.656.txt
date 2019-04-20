@@ -1,4 +1,3 @@
-服务实在是太差了,居然没有跟我说就把我房间的窗帘取走了,而且打电话竟说没有就不给我换
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:561ed92747c3d2c0782d7857e81811a25de6c80bccf907f137e348c4e78afb3a
+size 131

@@ -1,3 +1,3 @@
-前台接待人员略显死板，不能主动向客人介绍各项事宜，服务较被动
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdedc9d350451d80c55007a41c4a3fefa09aa28f8586f351b3953c3a41ae02af
+size 97

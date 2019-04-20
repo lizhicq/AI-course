@@ -1,3 +1,3 @@
-河南人就是河南人！不被懵一次，那算白来一回；在全国乃至全世界那种叫做经济房的房间，在河南济源雅士达叫做“贵宾楼”，真够逗的！！！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2308491218c13b5d17fd64cfd83b9fe0d19da760a3d8323d7df2c2bacab23c27
+size 199

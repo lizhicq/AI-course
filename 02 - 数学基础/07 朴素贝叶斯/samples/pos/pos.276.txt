@@ -1,6 +1,3 @@
-环境还不错,在西街头上,又有相当的一段距离与吵闹的西街隔离,非常安静.
-但是:
-1.不能上网,与四星水准不符;
-2.同去旅伴抱怨房内有霉味
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:49aa0504adb858fb627b2b8c854d5e4b9fbc0b2da78bb0e8bf43e2396e231485
+size 192

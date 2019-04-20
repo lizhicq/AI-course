@@ -1,4 +1,3 @@
-设施陈旧,早餐不太丰富
-只能说是一般般了
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb6463b6f8c441db1a303eed5852e16e6fcd223833979823968e71a41aabfafc
+size 65

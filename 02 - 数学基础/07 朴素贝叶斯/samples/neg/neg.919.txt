@@ -1,3 +1,3 @@
-性价比太差，大堂不气派。房间一般，服务一般，以后不会住
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e74075c8a4efc95b94c29ece55c66fc5e2f320bfd0bac5820d28a96d50aa3d5b
+size 88

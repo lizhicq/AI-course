@@ -1,3 +1,3 @@
-还是不去的好，装修噪音大，离汽车站火车站比较近比较乱。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:23c055217cbb55c6f2387691e42adb99e1fc500fd79a39bc595d09fe19dc914f
+size 88

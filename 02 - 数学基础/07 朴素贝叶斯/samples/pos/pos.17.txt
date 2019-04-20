@@ -1,4 +1,3 @@
-很不错的酒店，尽管在火车站，但很安静。
-房间干净，早餐一般。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e8866858d1eb2fb056248d597efb65bf820e111a505b819ab813165f250baaa
+size 97

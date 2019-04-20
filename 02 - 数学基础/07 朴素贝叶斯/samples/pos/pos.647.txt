@@ -1,4 +1,3 @@
-酒店附近修路,出行比较痛苦.服务还是一如既往的好.偶尔去了趟健身房,觉得好小叻,设备都挤在一起,其他都还不错的
-BTW:餐厅有金,银卡的可以打折的yo~
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:27fc1d5dc27bcb5ba31789f8cb381243aad236425485ccf13d5f53bc57a24519
+size 207

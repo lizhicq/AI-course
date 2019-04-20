@@ -1,5 +1,3 @@
-宾馆前台的服务极差，竟然将携程网本人的客房订单弄丢，最终又经历了三次换房经验，惨痛的教训啊！ 早餐比太阳神饭店稍好吧！
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cf0aa0df474908402d17f8977ae016f5894ac311f4642ac1ec43e8d629efc19
+size 188

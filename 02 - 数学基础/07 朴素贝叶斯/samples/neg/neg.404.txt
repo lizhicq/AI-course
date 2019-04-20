@@ -1,4 +1,3 @@
-早餐30,不能退,也不能期,太理.以后不再酒店.
-房有味,修太.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1abe196273ac15cbdeb14595e2a536bbe0c91800535534dd97dae5ca56e75fc
+size 85

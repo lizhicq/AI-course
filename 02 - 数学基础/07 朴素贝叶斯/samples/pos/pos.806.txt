@@ -1,3 +1,3 @@
-提醒大家每年10月份最好不要去香港,比平时贵太多拉!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b80d7ff00707ecc6b2555116cea7d50a3cda372763b1a8b0b35d777bebab509
+size 77

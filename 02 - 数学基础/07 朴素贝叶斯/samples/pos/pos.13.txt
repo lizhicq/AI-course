@@ -1,5 +1,3 @@
-早餐太差，全是素菜。另外礼宾部还弄丢了我一件行李，最后发现是被别人领走了，半天才找回来。其他都还可以。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ef2e2be0b6fe75b51df1aa08ed869f5c83d21db5070d9d9443851f9551c67fd
+size 166

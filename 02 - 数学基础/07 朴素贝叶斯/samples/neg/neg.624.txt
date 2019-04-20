@@ -1,5 +1,3 @@
-非常失望，定了一周第二天就换了酒店，是个康体中心，房间设施最多也就是个2星的标准，却要498。真是奇怪，携程还有这样的酒店。晚上9点到酒店，黑乎乎的一片，以为是出租车把我送错了地方。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b872df8e6efcb562673e4fcd4ef2c7cafb1718d107d7b213af0ed4cd4910ed5f
+size 276

@@ -1,4 +1,3 @@
-酒店设施齐全，服务周到
-离海边很近，适合晚上出去散步
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d522e2b7ba8fc2cbd538ae038e8177c8e76690dcfc14b973fff7169ea400498
+size 85

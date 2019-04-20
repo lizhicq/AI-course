@@ -1,6 +1,3 @@
-最滥的酒店
-什么都不行。
-这种酒店千万别去。
-80年代的3星
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89ac1973551167feac3898983508ee2c0645791cc25016b6904cab0a8ab327e
+size 91

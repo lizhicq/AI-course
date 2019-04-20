@@ -1,4 +1,3 @@
-房间很大，交通方便。早餐还可以。下次去沈阳，还是住那。
-补充点评 2007年12月25日 ： 贵了一点，如果不是公司付账不会住那。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5e32ba9b067a344fc2309283bb5253824fbd89d0b9a8ec3d71a039918082bf
+size 180

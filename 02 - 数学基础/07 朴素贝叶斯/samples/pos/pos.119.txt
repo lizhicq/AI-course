@@ -1,3 +1,3 @@
-朋友对该酒店的评价比较满意，就是交通非常拥堵。每次进出都要花费很长的时间。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f69db0eab8a3a1c3592467565f3b23430c3bbdcc3c82da3791181928470099b8
+size 118

@@ -1,3 +1,3 @@
-住了一天，简直就像噩梦！没有一点让我满意的地方！！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e225772aba7c07daf831d3dc121bf21676399d3f3850887df0a2b0bdffe489
+size 82

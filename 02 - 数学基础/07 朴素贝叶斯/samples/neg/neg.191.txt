@@ -1,5 +1,3 @@
-总体来说酒店真的不怎么样，首先空调是坏的其次窗户漏风，晚上非常冷，睡觉时只能把脑袋一起放进被卧里，这是我住过的最差劲的酒店，如果再有机会去丹东绝对不住这
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:469cf9c41c6bbd3216550bd50863b1cb7246df41698593aeab9b428b8df34a1c
+size 241

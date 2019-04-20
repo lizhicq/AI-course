@@ -1,3 +1,3 @@
-房间不错，下次有机会还会继续入住的。价格能再便宜写就更加ok了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d04479bab0472c6945a01dc3769a73a531a182c4174618d06407db4651e324
+size 99

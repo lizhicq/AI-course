@@ -1,4 +1,3 @@
-早上八点多到酒店,预先订了房的,却被告知十二点
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de066a968fe9005a1ffe1f9a71273ba5306e9b575a26f8b5bf7460aa4e0d9f8
+size 75

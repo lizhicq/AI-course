@@ -1,3 +1,3 @@
-酒店真的不错，就是早餐都是韩式的有点怪。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d11603d0c0b24ee23d2eda77972784a744c4435b76f589ac5ed9b0962603a28
+size 67

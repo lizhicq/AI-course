@@ -1,3 +1,3 @@
-酒店确实很差，而且价格很贵！山景房居然就是对着一个小秃山，实在是无语！！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:da7ff4ec06980fdaeb5c0d1c8492db85391567adc1545e102bdd3d3d45747749
+size 115

@@ -1,3 +1,3 @@
-酒店整体都不错，住过两次。感觉360跟410的房间没什么区别。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:715d2252f113a407884acf4e07e4e6b8536256f80cbb46483e788b120163f4c8
+size 88

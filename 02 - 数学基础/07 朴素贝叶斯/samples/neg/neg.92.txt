@@ -1,4 +1,3 @@
-住过所有三星酒店感觉最差的一家.1,周边环境极差,2.二楼的卡啦OK感觉很暧昧,电梯上有很"职业"的打扮怪异的女性出入.3,酒店有股发霉的味道.4,酒
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d744960322a26085842ec9354f2ba39c4d4a6b648ed7aac09d5bb8e84bc951f
+size 201

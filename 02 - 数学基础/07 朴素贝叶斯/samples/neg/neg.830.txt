@@ -1,4 +1,3 @@
-太偏的地方，太冷清的场所，太糟糕的早餐。郁闷！！
-补充点评 2008年4月18日 ： 建议携程不要推荐过去了
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e8e185126f49742bb8bade74bb770c23da2d96dd3267983fdbb8440740a3846
+size 149

@@ -1,3 +1,3 @@
-套房很不错。风景也很好。唯一美中不足的是酒店的位置比较难找，交通也不大方便。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf51ffcbec2db72337167b1b5f04077c88ee27e277e5d177974b8c86619882e4
+size 121

@@ -1,3 +1,3 @@
-房间还行，交通也方便，当然火车站周边略显嘈杂，总体还行。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1ade9ebf2280e7c00ec34893cbdb171da73cd9aa12529a6b7ff76398f9d083e
+size 91

@@ -1,4 +1,3 @@
-服务态度比较好，愿意听取客户所提出意见，290元的房间设施还可以，房间空间稍微小了些，早餐比较一般，按道理4星级应该会好些，别的4星级也住过，
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:57e406098cf269f190aa1dddb97abb99f298095627dfa7a6ccd13655a090c461
+size 212

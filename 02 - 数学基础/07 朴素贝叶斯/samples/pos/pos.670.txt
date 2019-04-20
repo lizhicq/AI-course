@@ -1,3 +1,3 @@
-比较老的五星级酒店， 酒店的管理 维护还是很好
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:151797782fcc3b495695bc95bfca19cf3eb9435efded1138223566b161dda5f8
+size 72

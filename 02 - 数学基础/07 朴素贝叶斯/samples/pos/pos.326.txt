@@ -1,4 +1,3 @@
-早餐是中式，有些东西很奇怪。
-住店停车还收费，不应该。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:837632c787f90c20747bcbb732114611027e48206d8455ce0c161365bddfb2d3
+size 88

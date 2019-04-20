@@ -1,3 +1,3 @@
-环境非常恶劣，没有空调，房间昏暗潮湿。保证以后再也不去住了！！！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d129b489e40b1f0cc06762bcfc3d243a724be512148d445192ee4a8b1cfd8d7c
+size 103

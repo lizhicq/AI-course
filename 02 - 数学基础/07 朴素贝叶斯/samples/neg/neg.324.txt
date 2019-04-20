@@ -1,5 +1,3 @@
-1.房间有较重的装修气味！
-2.隔音效果差
-3.预订的内容不能保证，我订的双人床房间成了双人大床房间！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e44b59dd71de64bdd3393c1c3716e5ea73de27b788d048e74a862d5a65e22c0
+size 148

@@ -1,3 +1,3 @@
-设施很陈旧，卫生间真的有够脏的，没有电梯
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8849c22f32eff31cdecbaec826d24466aaf5e99be5c2c95cd77051d3fdceddc9
+size 67

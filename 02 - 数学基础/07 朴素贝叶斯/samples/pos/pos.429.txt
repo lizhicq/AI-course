@@ -1,3 +1,3 @@
-地段很好，很方便。服务也算不错。这个价钱还是非常值得的。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc819e9d6afba31d59dfaeb984c6eff7e0fbdd26e8b366829edfb28428a035e2
+size 91

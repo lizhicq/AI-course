@@ -1,3 +1,3 @@
-给父母订的~回来说房间远不及盛华的,早餐也不行.唯一好的就是在风景区内了~
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36017c47c2e4b6d10e941c2cb5e4cd9582ce0563d6969d02c35da3747ee6e60
+size 110

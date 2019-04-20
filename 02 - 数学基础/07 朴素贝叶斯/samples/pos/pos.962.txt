@@ -1,3 +1,3 @@
-总体来说还可以，门口的车不是很多，但是金门路上车很多，游5等都可以直接到火车站，离寒山寺 留园 虎丘 定园都很近！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd7c981f185e94add42c6c8d0ab9c5ebfe3481e33da57a55060f2842511cd71d
+size 170

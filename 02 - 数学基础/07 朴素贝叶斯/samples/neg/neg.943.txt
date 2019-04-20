@@ -1,3 +1,3 @@
-酒店离开市区挺远，很不方便。除了大堂气派，房间根本没有五星，充其量较差的四星，更莫名其妙的是房间竟然没有暖空调，下次决不考虑入住。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bbe5f51daa7dc4b0575add1deb80d7d05e7faee197743d22378469075465e9a
+size 202

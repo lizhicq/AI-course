@@ -1,6 +1,3 @@
-房间升级到了行政楼层
-房间很大，很舒服，很大的落地窗户
-以为会很远，但是如果坐九铁，真得十分方便到达
-很意外，香港还有这么大的房间！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aea947c63bb774f3ac63d4f3d35ae0013e61b9e134fa620fe9c77cf111a6c45
+size 205

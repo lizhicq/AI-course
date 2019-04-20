@@ -1,3 +1,3 @@
-房间不错,只是上网速度慢得无法忍受,打开一个网页要等半小时,连邮件都无法收。另前台工作人员服务态度是很好，只是效率有得改善。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6818ee1de2afec43580205b5258203fb643a96adba26da542e8d3a3c59e5e70c
+size 187

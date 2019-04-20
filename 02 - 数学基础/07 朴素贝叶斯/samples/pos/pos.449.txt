@@ -1,4 +1,3 @@
-在太原还算不错的，个人认为要比山西大酒店好！
-国贸没住过，价格太贵，呵呵
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c3b5ebeef35ef58df9af0eeca44ad20ef446779828d0cd98954753a0b578d24
+size 115

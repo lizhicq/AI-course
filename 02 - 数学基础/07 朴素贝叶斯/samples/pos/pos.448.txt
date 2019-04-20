@@ -1,5 +1,3 @@
-价格确实比较高，而且还没有早餐提供。
-携程拿到的价格不好？还是自己保留起来不愿意让利给我们这些客户呢？
-到前台搞价格，430就可以了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5901dd2fadceee3fca78fe62d11ca304ac3021dceb2329f7f0a5f09ae9887ef
+size 202

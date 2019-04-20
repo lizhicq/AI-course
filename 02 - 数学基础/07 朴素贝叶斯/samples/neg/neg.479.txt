@@ -1,5 +1,3 @@
-就没有见过这样的酒店,价格不便宜,设备特别陈旧,房间昏暗,外部内部都特脏,上面写有宽贷竟然还要20元钱,要钱也罢了,IP地址都不能自动获取.
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f21a23ded5fb5397a6a272dcce7e3f781474d5299782c75f1661bf3f31e90192
+size 199

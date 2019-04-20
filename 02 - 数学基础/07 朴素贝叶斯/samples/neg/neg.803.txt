@@ -1,3 +1,3 @@
-设施陈旧，最不好的是房间太小了（单人间），除了放一张床，我在想相同的价格，是否标准间面积会大一些?不敢相信这是四星酒店。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a57cc209d2928a72bce7f66e3b968033f7612f866f8b23f2b2bf07f2b235b4d
+size 185

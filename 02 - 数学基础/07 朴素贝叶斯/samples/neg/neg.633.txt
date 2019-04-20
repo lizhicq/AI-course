@@ -1,3 +1,3 @@
-很一般的酒店，紧临马路，虽然有双层窗，但还有些吵。平时价格应低于200元，节日价格380元属于过高。总体而言，很一般，包括服务。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:744f3341f4cb07ccbadbe3947cb0173eb2714c110a2bc4de8cf8661b2d8dc364
+size 187

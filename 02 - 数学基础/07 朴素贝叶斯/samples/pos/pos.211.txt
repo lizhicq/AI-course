@@ -1,3 +1,3 @@
-服务很好，尤其是宾馆的客户经理，服务尤其的好，为客人想的很周全，在此点名表扬不太好，房间也不错，下次去还住这里。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ef7b6c1b5337cab8ee7d9b155842eef5896a4de74c2e3cd258df0467fd1b2ba
+size 175

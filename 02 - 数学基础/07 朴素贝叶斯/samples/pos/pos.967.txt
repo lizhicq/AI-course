@@ -1,4 +1,3 @@
-一般情况吧!这个价位的能有这样的硬件条件也算不错了!
-适合情人约会不想花大钱的!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9176286fe73fb55200741a62c7f0e651daccfbfa8fc1870eb02cb467c917b573
+size 121

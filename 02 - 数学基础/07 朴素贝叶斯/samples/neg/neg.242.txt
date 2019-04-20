@@ -1,4 +1,3 @@
-真没想到，在现代化的北京，还有如此低档而收费却不低的酒店！！！
-所谓经济标间，窄小、简陋得不可理喻，怎么对得起挂牌3星？？？？？？
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c0d0bb6a7c394859a92fdb6a0493fe2e4adca462e84319701932e872a899aa
+size 200

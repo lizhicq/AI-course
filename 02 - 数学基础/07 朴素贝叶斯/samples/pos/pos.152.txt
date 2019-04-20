@@ -1,3 +1,3 @@
-总台小姐凌晨0：30打电话询问房卡之事，惊扰本人美梦，使我一夜未眠，区区小事，为何不能次日早晨与我联系，服务欠周到，尚需改进
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:96b8917bdba01d3283d15a9b1d189e0ae47f6915c49a2912a4adcfcb6aee8550
+size 187

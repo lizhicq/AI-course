@@ -1,3 +1,3 @@
-服务很热情，交通也很便利，下次如果去北京我还会选择这家酒店!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c33b104a2531a7e94ab09722980b89d6ec37d1ad9270210121e9db16100b6cf
+size 95

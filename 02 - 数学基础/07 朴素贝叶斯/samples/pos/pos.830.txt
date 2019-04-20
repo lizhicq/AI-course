@@ -1,5 +1,3 @@
-青海宾馆在西宁还算不错，大床房床离门非常近，隔音不算太好，电视小且旧，不过酒店环境还可以，早餐也不错。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e47c36d9d4628114067970bb1d8b9aeb9ac0097d70c4957c457a8785616590d
+size 166

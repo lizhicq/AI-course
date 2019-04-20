@@ -1,3 +1,3 @@
-渡假村周围景色不错,但较落乡.硬件太差,服务水准有待提高!查房时故意用陈旧的烟蒂烫痕讹人,虽未得逞,但给人留下的感觉不好,以后不去就是了.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3147e2a0aa31e7dccb24da493589cc61d5bff08b6c097c2e4cf657d2567ff4de
+size 198

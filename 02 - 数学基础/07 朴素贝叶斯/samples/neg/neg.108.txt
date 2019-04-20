@@ -1,8 +1,3 @@
-1,房间小
-2，房间通风不好，气味有点大
-3，家具，床单陈旧
-4，网络有时不通
-一个字 烂
-建议远离
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:83af734a35248f35cbb5a215a2bd80075701b4991cea43fe203f8d7c77bee6ad
+size 145

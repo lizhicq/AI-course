@@ -1,3 +1,3 @@
-服务蛮差的,房间说是豪华其实也很一般...
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:66546ac4257bf0718cc1cdc35eb5d2430e61ee054a826b89dab5e011d39415aa
+size 62

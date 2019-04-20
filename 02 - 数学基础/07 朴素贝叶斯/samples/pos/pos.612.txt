@@ -1,3 +1,3 @@
-确实很有商务型酒店的特点,但是缺乏周到的五星的服务.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a2e2039fe1e8fffe11195871e8f3e1ef2cfa0e1b1e735c09181266a164909ac
+size 81

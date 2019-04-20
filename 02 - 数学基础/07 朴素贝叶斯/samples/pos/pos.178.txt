@@ -1,3 +1,3 @@
-对于自驾游,这家酒店很合适，我们是住2号楼顶层,风景及服务都很好，下次去威海还住这家酒店!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:09910f64a814fdd1b456d23293c40a2a0f597cfc3a3a5d51ef1aa72e796ba203
+size 134

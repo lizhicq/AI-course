@@ -1,3 +1,3 @@
-非常好的酒店，四星的标准完全超值的享受，服务非常好
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f183ede54ab136868c6b13eb512a416f66197b3c50297310891f92602f18ac98
+size 82

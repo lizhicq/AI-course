@@ -1,4 +1,3 @@
-位置没有携程说的那么中心，距离天河购物中心开车约6-7分钟，走路的话就免了吧。 酒店设施和装修很一般，最多一个三星标准。
-不会再选择这个地方住。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bdc05b06f067c333eab70e3e2e0bcc62c80e664112a194b4e704aef373f45fd
+size 215

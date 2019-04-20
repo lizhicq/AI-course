@@ -1,3 +1,3 @@
-有待提高，在桌子上放laptop时，发现有一块油污迹，用毛巾擦掉，后又发现桌子下边的横档的右边有一块污迹，擦不掉，但是看着不舒服，空调的效果很差，几乎不热，只有冷风
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:aceecdc0373b1f5abc1b6e5f95d8680fc465b63b9a29a0040157cd6ebb16d0c0
+size 241

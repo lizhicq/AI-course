@@ -1,3 +1,3 @@
-地段可以，这大概是唯一的优点了。房间小，配置简陋，简直没法洗澡。最要命的是没有暖空调，冻的要命。不过前台服务员态度可以。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d9fb49e24510ca558bd0dd3c7f95b43bfaf9c8da067bcaa3a5fad8cf65c822
+size 187

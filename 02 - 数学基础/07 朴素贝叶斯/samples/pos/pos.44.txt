@@ -1,4 +1,3 @@
-房间较小,但挺干,另外空调噪声较大,晚上睡觉还是有点吵.
-早餐是自助餐,挺丰富! 总体感觉不错!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9680ced5afc89218761edd992111bc850c566e6802b6a34e6acf15ebcf757d
+size 135

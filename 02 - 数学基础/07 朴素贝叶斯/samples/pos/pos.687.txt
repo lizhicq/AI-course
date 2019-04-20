@@ -1,5 +1,3 @@
-一般
-设施不错，其他一般
-早餐也不错
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:06239e6e7283d9b9e40d1e558a7b3ef8affef25f749c79a056f0b0a1fd95fe97
+size 61

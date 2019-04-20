@@ -1,3 +1,3 @@
-很偏远，外面修路，很脏乱，房间还行，服务一般
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ffcf63686140891a78b04d5d7e59f9551201c520282c787a8609a0f7435c9fa
+size 73

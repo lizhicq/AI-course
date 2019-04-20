@@ -1,3 +1,3 @@
-第一次，也是最后一次，服务与星级不成正比，房间设施也非常一般！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b3d9c1119e47766043dc99b741c3ab6eb5900c058dc69cf3ad085c0613d3f44
+size 100

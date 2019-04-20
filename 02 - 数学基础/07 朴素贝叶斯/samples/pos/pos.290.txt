@@ -1,4 +1,3 @@
-最后调整到新翼楼，是他们新装修的楼层。
-还算不错的，浴室面积很大，早餐比较丰富，但是挺贵的：）
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:607513b8f3fd6c87e232b22484df69c50a8222c6b47cdcb9e2f6c37a8addff7b
+size 148

@@ -1,8 +1,3 @@
-100道numpy练习——初学与入门篇
-https://blog.csdn.net/u012162613/article/details/42784403
-
-100道numpy练习——Apprentice篇
-https://blog.csdn.net/u012162613/article/details/42811297
-
-100道numpy练习——进阶篇
-https://blog.csdn.net/u012162613/article/details/42847011
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b8751ee5b057fe3799f1a6f438ce90ced89904287765c3018f809efb6ab0cc
+size 271

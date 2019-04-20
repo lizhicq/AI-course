@@ -1,3 +1,3 @@
-房间比较差，尤其是洗手间，房间隔音和餐饮服务都不好。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d74ba0441cb866b90762efd59a7aae98cc21e037c5f47f9f24ae7d5da3dae548
+size 85

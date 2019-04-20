@@ -1,3 +1,3 @@
-客房和餐厅的服务都不错，总台的办事速度也挺快。但楼层好像没电话，我忘带房卡还要下到总台，电梯有点慢。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e00ac24747188444ad81b3705357af5f3fb93940e5e112942d9aa3ada240029c
+size 157

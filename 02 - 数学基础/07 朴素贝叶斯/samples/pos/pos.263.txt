@@ -1,4 +1,3 @@
-环境地理位置很好，交通方便。
-房间舒适，服务很好
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba080a5886eac95e9698f0652d326018158ae0b3e3c27f2d3fd945c421095d23
+size 79

@@ -1,3 +1,3 @@
-价格还可以，位置也不错，就是房间装修太旧了，也不干净，还有异味！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6836aafe671c715f46c5a92df4c59e5e51fa7e90fd2e9fc66d4810ebdec91cf2
+size 103

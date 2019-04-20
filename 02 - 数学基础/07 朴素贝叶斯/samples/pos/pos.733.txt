@@ -1,3 +1,3 @@
-总体感觉不错，就是房间的窗户感觉不是很好使用，早餐一般，但是还是值得一住！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2913ee08535e4930e21b3e9b75504517ef887035e898525358e1c20628c167c9
+size 118

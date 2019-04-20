@@ -1,4 +1,3 @@
-这酒店太黑，要求开通宽带，服务生送来网线，叫你签名，没有任何文字
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:73246dd12f88ced7c292d392e28cd51b304fb53530ae2117a551e31976862d50
+size 106

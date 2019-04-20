@@ -1,4 +1,3 @@
-价格实惠，基本还可以
-宾馆反馈 2008年4月17日 ： 希望下次再入住本酒店。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b89ea7829bdb5e58cfa6661581f1b95be5afe86674bdf63d32be396e1fd8f3d5
+size 107

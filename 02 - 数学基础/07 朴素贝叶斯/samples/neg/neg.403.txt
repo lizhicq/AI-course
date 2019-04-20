@@ -1,6 +1,3 @@
-像是仓库改的
-拖鞋不错
-卫生间还可以
-早餐很差
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa0cfe74ba1c290e6602b6c389508f34fe65afe06e21689e9ae91d0526b5525
+size 76

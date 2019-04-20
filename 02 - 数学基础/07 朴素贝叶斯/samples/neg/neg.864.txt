@@ -1,8 +1,3 @@
-上网收费巨高,房间卫生差,找不到服务员,床都坏了没人管.
-实在太烂了,谁去住就是SB
-免费注册 网站导航 宾馆索引 服务说明 关于携程 诚聘英才 代理合作 广告业务 联系我们
-Copyright1999-2008, ctrip.com. all rights reserved.
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd6fbb391d991406ea40fb1981ced35e7cdb2cb1e6dde2661fd4fa200a53f7ac
+size 298

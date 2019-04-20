@@ -1,3 +1,3 @@
-房间挺小，不过香港的酒店几乎都是如此。前台服务很好，酒店地点也很好。周围是居民区，很安静。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee0c508a86a221e3b5ab9a43f10c1431ec8522871fb0437a9ed0414ca533b6fc
+size 142

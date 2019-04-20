@@ -1,4 +1,3 @@
-还可以吧，价格实惠
-宾馆反馈 2008年4月17日 ： 谢谢！欢迎再次入住其士大酒店。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:49024498e074e3790b7b6da2f70844fd1fd9efc8021707498fa554556653cab7
+size 116

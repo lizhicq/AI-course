@@ -1,3 +1,3 @@
-没有效率和服务的旅馆，如果你恨他/她，就让他/她住宁夏国际饭店
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:86fd71a1d39679700b128973af1601e649f8af37091769a05f22b0dccdec7590
+size 96

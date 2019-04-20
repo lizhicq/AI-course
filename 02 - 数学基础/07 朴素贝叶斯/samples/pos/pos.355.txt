@@ -1,3 +1,3 @@
-合庆的商务单间可以堪称豪华,设施特别先进，特别是少有的先进马桶,很少酒店有这样的装备.价格也可以接受
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9591ef820a84f8f1dd8a71eb70ac55a819194e9159f265dd8671669c60b3f98
+size 151

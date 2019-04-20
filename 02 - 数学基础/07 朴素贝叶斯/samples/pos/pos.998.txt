@@ -1,3 +1,3 @@
-总的来说可以，总是再这里住，公司客人还算满意。就是离公司超近，上楼上班下楼回家
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a072986807b262ec4a95b0dfc4191f383cb19dd5c784f8bf7cdebf8a13b51acd
+size 124

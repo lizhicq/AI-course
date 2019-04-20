@@ -1,3 +1,3 @@
-入住感想如下：找不到5星级宾馆的感觉、总体水平最多只能算4星级。虽然房价比中州皇冠便宜100元左右、但所有硬件及软件远不及中州皇冠。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe0c09e6e0d9618dce1f3cce89f9ba7670ce0a0a0cc64fa3fbf0b1374895ae29
+size 195

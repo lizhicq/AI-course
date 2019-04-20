@@ -1,4 +1,3 @@
-非常不好,房间的装修太旧,就像90年代的感觉.入住的168的所谓豪华标准间,只能说普通标准间罢了,老公睡觉起来
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cead03716182c1b5eedb1a645b9b968d539e4ae8ac77b6477e73d387be6f1a7
+size 154

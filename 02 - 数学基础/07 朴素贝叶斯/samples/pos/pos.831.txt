@@ -1,3 +1,3 @@
-还行,房间小是不可以抱怨的，因为这是在香港,如果是来购物的话是个不错的选择!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f30a730be4dc84f8e4e44b5b2f65bdfe8a8bee7017b874290c0008c0614cf83
+size 115

@@ -1,6 +1,3 @@
-房间很干净
-物超所值
-价格也蛮合理的
-还不错
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:80fd64b2051546e14f2e85ecf57909dc11a17face5717442dcb54d5bb46d6d19
+size 73

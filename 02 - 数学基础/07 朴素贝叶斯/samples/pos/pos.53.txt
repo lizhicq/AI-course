@@ -1,3 +1,3 @@
-房间太旧了， 服务一般， 倒是桑拿那里超级大 有如对外经营的一样。 地段还可以， 其它就没有感觉了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2822148fb06986be6961852b3ec7d5a1f3e9c42c1d8885e8109e2c8aec3033e
+size 147

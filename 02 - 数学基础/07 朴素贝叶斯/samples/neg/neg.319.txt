@@ -1,3 +1,3 @@
-挂的是三星的牌牌，但室内、用具、环境及性价比还是差太多，现在可能是哈市的旅游旺季，因为是冰雪的季节吗？房间内有股汗味让人实在受不了！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:57748a11e705ec659ef19300a02448965c552fbff379095bf4ea583b2ac2df48
+size 205

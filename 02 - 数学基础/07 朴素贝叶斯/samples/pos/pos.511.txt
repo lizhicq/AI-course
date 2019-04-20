@@ -1,4 +1,3 @@
-酒店的服务很热情，对于我们的客房要求总能及时回应。
-地理位置不错，离中山北街很近，吃饭方便。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ac6ab265631ff965907c225b804307cc4557df792a45de69dfc05f1a913ba61
+size 145

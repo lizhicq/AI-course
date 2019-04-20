@@ -1,4 +1,3 @@
-服务态度很好，但就是做事拖拉。
-地段位置还比较方便。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f506a161e5300da280e859dbe7e8000a01c81ac979709096658fb8e728e810d
+size 85

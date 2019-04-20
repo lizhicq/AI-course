@@ -1,3 +1,3 @@
-房间设施不错,服务没问题,早餐也不错,直的住,金华没有好选择
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae8b4d9b4bacef712799cfaa56b78659f2cd29500b7d0171d1a657db2aa00110
+size 89

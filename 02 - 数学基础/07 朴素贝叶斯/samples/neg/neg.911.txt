@@ -1,4 +1,3 @@
-房间很一般，小，且让人感觉脏，隔音效果差，能听到走廊的人讲话，走廊光线昏暗，旁边没有什么可吃
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6dea2d03452c4a536eba97d6526bd0a078a366c4ca2d2bdda5be07ede655ee6
+size 147

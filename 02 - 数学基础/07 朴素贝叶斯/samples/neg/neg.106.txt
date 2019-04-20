@@ -1,4 +1,3 @@
-酒店设施老化严重。
-作为一家五星级酒店，居然没有无烟楼层（这是前台登记的时候酒店服务员说的）
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fa02fb5d6f17f2e3959e9543965b6863ec58654f702d140f1927219f2b92154
+size 145

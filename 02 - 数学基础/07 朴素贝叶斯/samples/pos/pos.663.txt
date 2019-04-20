@@ -1,3 +1,3 @@
-房间很好，早餐100多其实没什么吃的，早餐很差。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:131b5b14431b1d0632a3b3089a0b49442e7988ae21694e06dad40dad8c19082f
+size 73

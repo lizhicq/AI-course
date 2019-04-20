@@ -1,5 +1,3 @@
-晚上有搔扰电话比较烦。
-饭菜质量也不好
-价格也与实际不相符合
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8a9aecbada5aecf1533c6ab36dd1c53a99f3e72ef07f867522975ad32b0ac07
+size 97

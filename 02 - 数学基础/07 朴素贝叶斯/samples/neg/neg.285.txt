@@ -1,3 +1,3 @@
-住的是一楼，房间太小，窗户对着一堵墙。以后不会再住它了
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8c4f9ad0a16ea59ad727d45d430b5a690f2745445401e752730966009e9eaa
+size 88

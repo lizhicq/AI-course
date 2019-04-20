@@ -1,3 +1,3 @@
-酒店位置在很市中心的地方,房间也不错,旁边有一个府山公园.早餐品种不是很丰富.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c60cbba57f8e685981e69742f4cde843084789e29b212a34d5bf779fb3933a74
+size 116

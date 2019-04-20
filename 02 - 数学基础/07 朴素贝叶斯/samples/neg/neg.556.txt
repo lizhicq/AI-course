@@ -1,3 +1,3 @@
-隔音效果很差,客人住在九楼,晚上四楼的KTV 一直营业到一点,客人反应无法入睡. 所以本来预计定三天,后来提前退房,换了酒店
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6def406b94d7a559ba86201494e236aa7b0759d0414af6c191dbf0c2ee23428b
+size 171

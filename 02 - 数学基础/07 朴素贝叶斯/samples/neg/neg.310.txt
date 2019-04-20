@@ -1,3 +1,3 @@
-房间的卫生间较差，不尽人意。总的感觉不是很好。但是个人用品的卫生还是很规范的，整洁而且包装的很完整。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f7c59adfecfdff23acc13f68759d6ffb279347f9d639eed56639536a14336c
+size 157

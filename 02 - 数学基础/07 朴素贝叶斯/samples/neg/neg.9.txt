@@ -1,3 +1,3 @@
-房间很小，与行政间的名字不符。另外这家酒店的按摩可千万不能叫，超级黑！结帐时居然会有打手上来，请大家注意！决不会再入住此酒店。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5fa2fe66b399f7108b612909f52cd615d6384378da25b544b59cd17772ef5e7
+size 196

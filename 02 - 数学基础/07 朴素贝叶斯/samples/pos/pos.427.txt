@@ -1,4 +1,3 @@
-很好的酒店,很规范植得一住.餐厅一般不应该的,不知道为什么.
-宾馆反馈 2008年4月17日 ： 餐厅现已重新装修，用餐环境较以前要好的多。谢谢您的宝贵意见！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc273cecd209b9f5cbebc8f2ef1b4d4c5e3ce01b4e0ae16de6f1d9161a825651
+size 216

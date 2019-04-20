@@ -1,3 +1,3 @@
-很好的地理位置，一蹋糊涂的服务，萧条的酒店。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:883327c6376e0ebedbe7855c06ade57a2a83153f3268492c4a2bcf9b9333d461
+size 73

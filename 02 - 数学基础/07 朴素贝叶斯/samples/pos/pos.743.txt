@@ -1,3 +1,3 @@
-环境非常好!非常安静!设施较旧!餐厅菜肴很好!希望能改进硬件设施!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c0e51b707e87658f4c8a8398ad7ab5dd13b885bcd1acf3d30e525a8052ea536
+size 96

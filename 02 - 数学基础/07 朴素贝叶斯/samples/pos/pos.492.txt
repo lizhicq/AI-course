@@ -1,5 +1,3 @@
-酒店比较老,但是设备维护的还是不错.服务不错,比较细心周围,晚上回来开了夜床,感觉很好.楼下商场据说算济南最好的，感觉不错~~`下次还住这里
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6682a13ff8f59ea0eb9f71dff3f435e9b812c0ea6f81b4e76bb5dedfa29b952b
+size 205

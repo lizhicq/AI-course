@@ -1,3 +1,3 @@
-酒店太旧,不象4星,房间隔音太差,隔壁打了一晚麻将,太吵了
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dd38c475016a672d4b4e7e0d962a730d6949fe45b5aff4cb8394dec6594d0e2
+size 84

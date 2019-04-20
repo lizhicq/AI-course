@@ -1,3 +1,3 @@
-帮日本客人订的酒店,五星级这个价位算很便宜.至于环境和服务设施等应该很不错吧.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0eba6b19f4e99e61c1d0285bd201e48df43d4c5d32b17d1d9e4bcdfe9ec9c5
+size 118

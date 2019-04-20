@@ -1,7 +1,3 @@
-太差,根本达不到5星标准,房间旧装修很久的了,桌子都是坏的,唯一的是宾馆里的环境还可以,标准间里就太糟糕了
-免费注册 网站导航 宾馆索引 服务说明 关于携程 诚聘英才 代理合作 广告业务 联系我们
-Copyright1999-2008, ctrip.com. all rights reserved.
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7768531e4be68e92f45ca1b8c9af3496135f13a2fe69db75df72a785cd4d5c7
+size 333

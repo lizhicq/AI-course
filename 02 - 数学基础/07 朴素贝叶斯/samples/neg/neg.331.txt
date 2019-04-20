@@ -1,4 +1,3 @@
-餐厅很差,菜的种类水准都不行.
-酒店基本没有旅游配套服务,其实河南有很多有吸引力的旅游景点,但是实在缺少相应的服务.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:db0666dcb61de304a0baf385f96b95609b10d780732efa7a45ed88e92b867577
+size 171

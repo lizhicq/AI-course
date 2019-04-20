@@ -1,4 +1,3 @@
-非常的差,定的是豪华套房可是给我的感觉是刚刚做过真空处理,什么都没有真的很差服务方面就更不用说了我在
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb9fcf5f6c3d8f8af3c5fa37c60c603a6d7538d2feb88e4f725ace6cc1e93a1e
+size 156

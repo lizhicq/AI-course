@@ -1,4 +1,3 @@
-酒店设施陈旧, 由于是商务出行, 需要使用宽带, 换了三个房间宽带插座都没有信号, 只能作罢, 其中两个房间的电视也有问题, 不知让人晚上干什么.
-早餐质量实在很差.差不多是我住过最差的四星酒店了.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b0ed87e0fca0f6dd02fde2a402a5cfe82e2c342c14c65ae1a14d9d2e0ad3178
+size 274

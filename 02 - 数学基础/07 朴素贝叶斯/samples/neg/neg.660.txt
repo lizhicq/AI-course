@@ -1,3 +1,3 @@
-服务真的很差,是我住过那么多酒店中最差的了,房间也很旧的,和招待所几乎没什么区别,住了很后悔
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65679891b89c610d1fe4ff4fc675624f73062095f19745d427e41ef6b3c0b0a
+size 137

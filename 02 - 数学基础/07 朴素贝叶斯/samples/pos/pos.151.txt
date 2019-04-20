@@ -1,3 +1,3 @@
-火车晚点,临时改主意去住店,也没有刻意去选择.不过衢州饭店还不错,就是凌晨checkin,前台也要算前一天,收全天房费,说携程预订就是这样,睡了几个小时赶火车,还花了一天的钱.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfbc3d63cf51ac6829e93a8c2576498d6fbfec0ee381bcb8ef4f83c8f3b0d217
+size 237

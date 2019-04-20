@@ -1,4 +1,3 @@
-酒店在铁路旁，晚上火
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0a6100f58c26d78262d32bc204110cd8bb0a96deea85624c840e07b0aa22ff7
+size 39

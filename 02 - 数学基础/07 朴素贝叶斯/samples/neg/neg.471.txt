@@ -1,3 +1,3 @@
-不想多说，酒店所有的条件都很差，以后再也不会入住该酒店！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:66a25fdc4cee2f23a1b585d057cd4bad5aa878dc9dc1f610a794007c77a10222
+size 91

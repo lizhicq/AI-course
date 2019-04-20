@@ -1,3 +1,3 @@
-不错，外边看比较旧，但是里面很干净，交通也很方便，退房很快。在房间就可以看音乐喷泉，不错。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:95768c713954e2b49e124f1c044e19c10cbee2c0af7bcbeb944cb9634b740248
+size 142

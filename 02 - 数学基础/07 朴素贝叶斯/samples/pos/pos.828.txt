@@ -1,3 +1,3 @@
-宾馆周围环境不错，离商业区很近，而且幽静。不过宾馆有些老了，装修都过时了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:00245b1e0e923722bdf4dafd053869ca8d7a505df0c7e8a9bcc35ca0ee664580
+size 118

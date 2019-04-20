@@ -1,4 +1,3 @@
-订了一房间，保险链是坏的，叫了半天没人来，还是自己修的！
-里面的设施显得旧了点！据说就要翻修成汉庭了，不会房价也要跟着涨吧
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec9b4f10a64be7ed4cbaec2d4d504381ab487af2ba2e0551ab0c08ad697bea76
+size 190

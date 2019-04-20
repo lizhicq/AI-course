@@ -1,3 +1,3 @@
-酒店设施很好，服务也很周到，尤其是前台，和迎宾，很热情，谢谢他们！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:50112da203a5e11b6bbc55efbb2fb2307da88b1b023a7feffaa45216346491d2
+size 106

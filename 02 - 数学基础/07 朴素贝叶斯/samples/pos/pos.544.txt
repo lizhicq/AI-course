@@ -1,3 +1,3 @@
-房间不大，布置还行。里火车站较近。（打的9元）
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e216aca7602fa0a4a632104eebcf3f3ba96f0bb02b3cee395c2efa94304684e4
+size 74

@@ -1,3 +1,3 @@
-环境很不错，地理位置好。客人每次都住这里的。应该是挺满意的了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:830ee517fc73b3b55be3506b53ef9a09612f66d23414926eee127dfb77385be1
+size 100

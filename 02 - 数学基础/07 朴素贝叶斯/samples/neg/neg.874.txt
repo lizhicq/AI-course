@@ -1,4 +1,3 @@
-房间靠近马路，太吵了，一晚上听车子声音听到天亮，
-早上Check out速度比较慢
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:06479b84931312ab6edff9889ac4871d10ca9d508d1fe5679a78a07ef83ad2ff
+size 112

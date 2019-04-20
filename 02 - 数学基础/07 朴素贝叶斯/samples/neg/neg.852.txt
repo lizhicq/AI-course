@@ -1,5 +1,3 @@
-服务太不到位了
-本来住一天押金三百,我们先交了三百,但因故要多住一天,早上也没退房,去大堂领餐票时也跟服务员说过,但服务员什么也没说.但当
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:732deae2c106d4bad0e3ca12e10ae60761f4d3693b62e45062a6d014bbc8f73c
+size 204

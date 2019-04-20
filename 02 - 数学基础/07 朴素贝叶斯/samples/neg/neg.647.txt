@@ -1,5 +1,3 @@
-这家酒店太让我失望了,房间小的简直不能再小了而且服务态度一般除了天台泳池还可以以外,还不如住海景酒店离天后车站又近价钱又便宜,下次去香港我肯定不住这家
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:087bee7e40e81aa0a22d1fa050bf536d6ff3f9cbd9a471176b2a5734ff189cba
+size 232

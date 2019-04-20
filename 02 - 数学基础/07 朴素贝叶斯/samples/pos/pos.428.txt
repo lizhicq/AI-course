@@ -1,5 +1,3 @@
-服务很好！员工很礼貌！房间很干净就是小了点！房间不能直接通话，需要总机转，不方便！在我看来：只能是准四星级酒店，在黄山只能算三星级酒店！
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:999aff7af9a32ab0a9fa6750aaab5785c2cdbbacc8cfe17c0b8622c8fb9ba582
+size 217

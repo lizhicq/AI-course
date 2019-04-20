@@ -1,5 +1,3 @@
-1、大床房其实是一个很小的房；
-2、新装修的房其实一点都不新，看起来挺旧的。
-补充点评 2008年5月23日 ： 我入住的是新装修的豪华房
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d19f3a6144cc0aaff3814519865d1b3ba432b8b3ec6d46f2f8e42266638fad5e
+size 190

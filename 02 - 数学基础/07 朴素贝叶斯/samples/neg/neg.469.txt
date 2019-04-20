@@ -1,3 +1,3 @@
-隔音很差，交通尚可，设施较陈旧，总体感觉不像三星的酒店。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:600245d24bb4a2e68cf04defef81926f540d20d4c2752b4d531b68327c641dd5
+size 91

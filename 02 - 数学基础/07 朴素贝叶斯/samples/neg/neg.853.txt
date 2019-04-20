@@ -1,6 +1,3 @@
-大堂是喧闹的，房间地毯是脏的，浴室淋浴龙头是坏的，毛巾是黄颜色的。
-补充点评 2007年9月11日 ： 虽然号称是5星级酒店，但是感觉其档次很低。很多欢场女子出入其中，让人又不安的感觉。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2d1ee541ec83b3425b58a1e82304a0eb3acdf0c2d60b69ce051af3eb0c34fa
+size 270

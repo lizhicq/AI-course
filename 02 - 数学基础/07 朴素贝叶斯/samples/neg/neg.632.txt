@@ -1,3 +1,3 @@
-房间太小,到总台拿房间居然说我没有预定,还要在打电话到携程去确认!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0caa075080c1c362c886f200b92ac2d6ebe62f3ab6697193c39f3c59b5874aba
+size 100

@@ -1,5 +1,3 @@
-酒店设施有点陈旧，但地处市中心地带，交通方便，服务也很好，携程的预定价格很公道，可以作为一个出差的选择
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6b6318feb2bacd8d44dbeb981e0dc13f492967fa34bb7615c0dae6f9ab8e98f
+size 166

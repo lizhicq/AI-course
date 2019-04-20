@@ -1,5 +1,3 @@
-酒店设施老化，服务互相推委，没有4星的设施怎能享受4星的服务，连空调都不能用的4星，餐饮就是大众食堂的标准，价格是`````````
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec32124855a184aa96b90b3a422f8c2d7ca5ec3835157ecaa67d993a8f03987a
+size 187

@@ -1,3 +1,3 @@
-酒店地理位置比较好.附近有家"敦煌海鲜酒家"早茶不错。还有大型超市"麦凯乐"也在不远处.酒店的整体性价比属于中高.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8ee7dd917dc80ff9e44ec44665ea879500a3b15794ac015652615b6d35af817
+size 164

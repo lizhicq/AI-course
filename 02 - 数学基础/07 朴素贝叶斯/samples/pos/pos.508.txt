@@ -1,3 +1,3 @@
-是宁夏唯一可以住的酒店了，每次都住在这里。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2676a55b6f62b7f575247ce58061aeed85e7da117cac47df6ced99f7f133b79
+size 70

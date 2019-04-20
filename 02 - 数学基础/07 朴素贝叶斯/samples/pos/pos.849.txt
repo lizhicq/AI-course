@@ -1,5 +1,3 @@
-香港的酒店在面方面就不需要求什了家酒店施已比了，不交通比方便的服方面尚可
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf72684e3d8a76e367e48d13161cf4bf9688b92d86673081d3914318fee3f54c
+size 121

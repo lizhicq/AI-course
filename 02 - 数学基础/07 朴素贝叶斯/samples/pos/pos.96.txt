@@ -1,3 +1,3 @@
-位置、设施都不错，价格也还可以，就是隔音太差了，被隔壁吵了一晚上
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c0f26869c03b579a6c5726a909a4618e80c70985a53cf4ba7607d4a79b9a73
+size 103

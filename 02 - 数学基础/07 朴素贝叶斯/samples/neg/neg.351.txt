@@ -1,3 +1,3 @@
-真的很差的酒店,服度很差.本人被在梯里,痛苦!早餐有特色!在哈住酒店是湖店比好.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:35da6429a519bccdc511eee95b90cf9a0e123e86c9cd1ea7337b182393b6a95f
+size 115

@@ -1,7 +1,3 @@
-优点:靠近商业中心,离火车站不远,价格还算公道
-缺点:房间设备差,几乎就是招待所的标准,周围环境脏乱差,噪音大.烧烤气味刺鼻.
-免费注册 网站导航 宾馆索引 服务说明 关于携程 诚聘英才 代理合作 广告业务 联系我们
-Copyright1999-2008, ctrip.com. a
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4547442e921b92d127ca2f0170c50be2bac7be5c0246d70c4e6b8fb9899fb20
+size 335

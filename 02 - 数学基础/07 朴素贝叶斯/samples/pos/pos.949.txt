@@ -1,3 +1,3 @@
-房间很大，服务员的态度也很好。只是商场在招商，不是很方便！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:aac8dba11c491624e058be1baaf87338d116d4b1552641bbd9bf8ec999f76a58
+size 94

@@ -1,3 +1,3 @@
-同样的价格相差一个月，房间小了一倍！忽悠，接着忽悠！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd30edd95c977c9821c1bc53b9845658744f7200b4a0b1281d9705a55c1391a9
+size 85

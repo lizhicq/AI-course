@@ -1,3 +1,3 @@
-酒店一般，设施还可以，就是床上可能有什么虫子，早晨起来感觉很痒，同住的同事也有同样的感觉，今后不敢再住了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a386754fd7f2d96bd8e643a75a3a370654001bc0dd74d6fda06c5bacf7a13be
+size 166

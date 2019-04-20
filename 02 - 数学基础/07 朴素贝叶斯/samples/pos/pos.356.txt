@@ -1,4 +1,3 @@
-威海合庆饭店的服务特别周到,特别人性化的服务.
-走南闯北住过很多酒店,但是从来没有1家象威海合庆饭店这样体贴周到的服务.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cde0f92ab23a987e4ae2f25ad22cf11da2b6b230dcc6807b9d095a413c85019
+size 177

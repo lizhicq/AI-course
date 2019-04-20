@@ -1,3 +1,3 @@
-很超值的酒店，对得起这个价格，但是上网步骤比较麻烦，网速一般。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3833ba125dcc67e0ab2487fd8db3fe9d8cc6a20166f4671a4aad498e57d2a5d2
+size 100

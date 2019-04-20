@@ -1,4 +1,3 @@
-酒店本来就是超5星的硬件配置的,2001-2006都住过,价格降了不少!位置太偏是致命的问
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b0ef2d00a4939b8d3f44d8de65aaafcd2c82f30d50ed4b9db21e40c2c285067
+size 118

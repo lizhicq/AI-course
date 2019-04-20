@@ -1,3 +1,3 @@
-酒店应该加强服务意识，配套很差，该有的服务没有，环境比较旧，应该加以修葺，翻新，配套设施与服务应加强。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a73c6f3bb0add85afd98cbf0b38fb6aca2539247854b578c20a022c88e5ff460
+size 160

@@ -1,3 +1,3 @@
-酒店位置非常好，装修就是旧了点，服务还可以，比较热情、周到，有机会我还会住在那里。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42fd8ac8c492071263eec764bd6bc824b68a5491d064a6af9c9206f70ccbd2d
+size 130

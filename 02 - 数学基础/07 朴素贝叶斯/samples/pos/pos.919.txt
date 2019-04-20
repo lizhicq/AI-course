@@ -1,3 +1,3 @@
-地点较好，还给免费升级了，感觉好了很多，就是价格太高了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f091f1197ae9df35fdca580b2cb3260fc45b4dba3b91c6fb590d8455496e76cb
+size 91

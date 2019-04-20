@@ -1,6 +1,3 @@
-前台没有传说的那么慢，我去的时候还可以。
-整体服务还不错。
-当时是3月份去的，房间有点冷，洗澡的时候直打哆嗦。
-网速还可以。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e7b566cab24585de69ea02f77b4622ac51cf076eb7f4fb344cc5f503fdf935
+size 191

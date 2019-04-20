@@ -1,3 +1,3 @@
-还不错，可以住一下，并且建议你住高一点层次的房间
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed2517156bd519d839c4d97ba467c5e977e2394acebd8ebd97ff1abe6904513
+size 79

@@ -1,3 +1,3 @@
-我住的是商务标，房间不错，很干净，服务也好！下回还会住。。。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b74afe72ead1698b1fdf31d7b54bc2488d84d156718953b55a4f2b54ee3b6f18
+size 97

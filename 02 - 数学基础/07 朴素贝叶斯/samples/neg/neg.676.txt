@@ -1,5 +1,3 @@
-前台的服务很差，10月1日的值班经理徐经理有意欺诈，将220元一晚的标准间欺骗我成380元的商务房，好在携程地客服打电话给我确认才没有上当。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a22a5c5b5bc512824407a9cfe768974fde3fced27b8065fa003df6122eeadcb
+size 205

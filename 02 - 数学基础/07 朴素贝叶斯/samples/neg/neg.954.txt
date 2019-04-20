@@ -1,3 +1,3 @@
-枕头太低了不好睡，不过在驻马店这种地方算可以了
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c299c80dd454ca29405d650ae0958cfcb2e3adf2806b2ece1d4d1cc1b2f68cb
+size 76

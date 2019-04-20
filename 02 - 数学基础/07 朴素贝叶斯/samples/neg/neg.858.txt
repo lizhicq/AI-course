@@ -1,4 +1,3 @@
-跟住招待所没什么太大区别。
-绝对不会再住第2次的酒店！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8b2d48bf896ee1c2cc51e39a50649cba03407cfb45cf0a9004437b7ce2e5f6a
+size 86

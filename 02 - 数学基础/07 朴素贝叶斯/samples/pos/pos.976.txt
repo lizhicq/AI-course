@@ -1,4 +1,3 @@
-房间超大，不是一般的大。哈哈哈哈哈哈哈哈哈哈
-补充点评 2008年8月11日 ： 周围吃东西的地方比较少。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1157427b097cdf100e5a33d217541f0cfdc7c68d492c8cf051a927e3b64cb9b4
+size 146

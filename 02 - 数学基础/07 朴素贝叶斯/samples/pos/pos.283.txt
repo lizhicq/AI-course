@@ -1,3 +1,3 @@
-地理位置佳，交通方便，酒店服务、设施都不错，在郑州算好的酒店了，以后有机会去郑州还住裕达。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aefab9bb52f9ea9ebbc892752dce02022989b35df40b0acdc82c04054eff357
+size 142

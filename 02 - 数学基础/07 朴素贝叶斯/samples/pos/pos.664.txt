@@ -1,3 +1,3 @@
-当时由于原先预定的标准间没有房间，酒店人员免费将2个房间全部升级到行政间，前台服务人员态度非常好，对了我强烈推荐大家去顶楼的旋转自助餐厅，那里的环境很灵的。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea531dc720b07d9fa565942e8514cab35b84e2a5179b1e1d9463ed8551bce8f7
+size 239

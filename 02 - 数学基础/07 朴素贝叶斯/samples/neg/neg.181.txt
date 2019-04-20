@@ -1,3 +1,3 @@
-我住的是大床间，房子不算干净，卫生间比较简陋，早餐品种太少，饭店上菜太慢，卫生也是问题，不停有苍蝇转来转去。下次不会再住了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b09c7fc5555507a1ba085d728d67218dd342c815ebcebf98b41217b0f6448e0
+size 193

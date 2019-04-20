@@ -1,3 +1,3 @@
-这地方千万别去住了，绣花枕头一个。样子好看，。别的没什么的，大冷天不开空调还说他们觉得没必要开，气的你要死呢。第2天我就搬家了，
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e6f70f0e0027084f1e20096da15965716254697f1d22c2a27de8dc9f5ee5d20
+size 197

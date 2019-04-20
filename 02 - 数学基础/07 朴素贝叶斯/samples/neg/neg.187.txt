@@ -1,4 +1,3 @@
-住过的最差的4星级宾馆，墙壁根本不隔音，晚上楼下卡拉ＯＫ吵的没法睡觉，早餐餐厅都是附近过来喝早茶的老头
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:725c01c771e3955ed1e8ba411d631efc24ddce2dd13f2f5851a1ed1cac868bac
+size 161

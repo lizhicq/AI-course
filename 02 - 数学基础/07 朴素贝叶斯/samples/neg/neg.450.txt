@@ -1,3 +1,3 @@
-还有，早餐稍晚点，就没什么可吃的了，做的也很一般
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a59aad0d3abd77fe357ed98b35ead5d2e251e627ab6fc9650847b21a1f3346d0
+size 79

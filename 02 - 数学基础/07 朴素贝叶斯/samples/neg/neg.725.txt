@@ -1,3 +1,3 @@
-条件太差！房间面积太小，简直就不象4*酒店！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:99306caebd55910dc566ec0423940e6ac7159db4d98f3348988d904b2562e2a3
+size 69

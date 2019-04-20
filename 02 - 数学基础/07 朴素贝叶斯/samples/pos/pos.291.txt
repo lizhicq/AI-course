@@ -1,3 +1,3 @@
-因为悦华酒店没房间了，才通过携程定泉州酒店的。虽然最喜欢的还是悦华，其实感觉泉州酒店的装修和气派还是在悦华之上，就是服务和早餐差悦华了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7c8734465de93653ea31a536500b75e03caaf684b94ecff788c262924152ef8
+size 211

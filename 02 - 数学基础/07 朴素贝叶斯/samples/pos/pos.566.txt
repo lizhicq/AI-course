@@ -1,3 +1,3 @@
-酒店位置很好，就在市中心广场边上，出行非常方便，房间条件也不错，下次应该还会入住。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:164a083ad7639ffef0a266749352915ef5c4218a429b8ff1699c913ff19e55c5
+size 130

@@ -1,3 +1,3 @@
-我朋友住了2个小时就给我电话让我帮忙退房。她说酒店设备非常陈旧，服务也不好。具体我没有细问。不过可以肯定住了会后悔。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c7f6ccb2206fdb702f2c412efb186881c2544edab908da7caadbea8c05aad59
+size 179

@@ -1,3 +1,3 @@
-作为五星级 酒店的硬件是差了点 装修很久 电视很小 只是位置很好 楼下是DFS 对面是海港城 但性价比不高
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a62c1eba6e85804a022003830f54a975539ee5b7745a26cbdf5d76f4eaf407bc
+size 146

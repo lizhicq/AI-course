@@ -1,4 +1,3 @@
-不知前面几位朋友怎么评价的，反正我自己入住后感觉实在不好，CHACK IN
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b26fd93dffb1f55fecb65343ea4f7ef860d1b3f7fdf16a4b5ba96e13896639e1
+size 104

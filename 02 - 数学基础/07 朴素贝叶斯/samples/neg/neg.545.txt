@@ -1,4 +1,3 @@
-07年曾经住过一次，感觉还可以。
-这次感觉不好，被子、床单太、太、太旧了，早该换新的了。其他服务业都一般。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f252f1bfd0419be8857fbc7a93f1ec2180f27d0988f559d8e916f5320d2f151
+size 162

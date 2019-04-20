@@ -1,5 +1,3 @@
-无论从任何角度讲，该酒店最多只能评为2星级。
-携程首先推荐该酒店，我认为只有一个原因：酒店的返点最高？
-补充点评 2008年3月11日 ： 教训！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c86e07fcb61aa52e7368acf45d68a9ad232fad9979a74f670f1232e0efd89cc3
+size 204

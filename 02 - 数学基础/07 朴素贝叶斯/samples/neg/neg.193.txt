@@ -1,5 +1,3 @@
-已经是第三次入住该酒店了，虽然换了一些新床和桌椅，但还是越来越久了．无论是服务还是其他，也就只有一星而已．只是在南戴河的话没办法了．
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a659eff9384a0551f1a1151205f2a5a8fade166ca44d6b6b2c9c37cb215ad1b
+size 211

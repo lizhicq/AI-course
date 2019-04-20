@@ -1,3 +1,3 @@
-明明信用卡担保了.跑过去住说没有房间了.只好升级.最后酒店没有收升级的钱.但是还是很不愉快.不过酒店是不错的.万豪的管理不错.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:75fc8298af6bf2bfc6ebaf60c02e20f6b2b80ee8a91acbaabd129c108410ec25
+size 182

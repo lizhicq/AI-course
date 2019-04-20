@@ -1,5 +1,3 @@
-1. 客房服务态度较好
-2. 早餐还算不错.
-3. 就是房间的灯光,太不满意~~
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec312ae7efd36353d77b192147c64d95f888cccd1143845ec2699049f6fca0ce
+size 101

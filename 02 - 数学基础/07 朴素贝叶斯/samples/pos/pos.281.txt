@@ -1,8 +1,3 @@
-哈哈哈哈.....
-居然还可以继续评论啊
-那就给满分了
-下次去了继续住
-忘记说了,有房内按摸的服务的
-可惜没时间去试了, 下次去还会住的......
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:25daef5229ecfbb167ea4ded6b6870c5cce021ffd79d5c4a877607aeb018f3d5
+size 201

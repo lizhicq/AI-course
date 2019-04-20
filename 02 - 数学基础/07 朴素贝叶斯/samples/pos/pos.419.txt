@@ -1,3 +1,3 @@
-酒店各方面设施完善，服务各方面也较好，就是位置比较偏。离市中心较远。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8f98c17efe181c785e490b6ec89e4537fe3632742ae2d7880883cca7f3ebfbf
+size 109

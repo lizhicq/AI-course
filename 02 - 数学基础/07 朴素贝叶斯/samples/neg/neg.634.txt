@@ -1,3 +1,3 @@
-专门定的宽带房，竟然无法上网，酒店也没有技术人员
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98a89e01b359c2c29a4b34ca670ae99d1176625c1a79814e10aad9b9e9bb57e
+size 79

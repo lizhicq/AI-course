@@ -1,3 +1,3 @@
-说是五星，房间比较小，网络还是有问题，但是服务人员业务能力比较强，很快搞定
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0c8a56c669eddb29279fe0cb9a1200ed7ac5c93fe9118e40c3164ced3c78f5
+size 118

@@ -1,4 +1,3 @@
-硬件设施太旧,和房价不相符,价格还是贵了
-补充点评 2008年7月29日 ： 大床房的床太小,两人睡感觉不舒服
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb4b5237baf60cb9b87f2cfad76b64444b98f0a062fedd75a5a37864503f33f3
+size 146

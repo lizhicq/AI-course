@@ -1,4 +1,3 @@
-便宜，物有所值。
-早餐：相对比较单调。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b99a090e0f8a3987ae17abc12c525fbd1fca7bb6df9fa0af874f9044617be828
+size 64

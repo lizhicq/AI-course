@@ -1,3 +1,3 @@
-酒店离兰桂坊和soho美食区比较近。酒店门口有直达巴士到铜锣湾。在半山高尚地段算是性价比不错的酒店了。　
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0341cd62b406521aa60e597ae96a33e147d9432c97b504cd336eaf9a341527d
+size 155

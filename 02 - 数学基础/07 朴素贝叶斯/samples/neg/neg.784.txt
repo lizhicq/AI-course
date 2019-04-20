@@ -1,4 +1,3 @@
-房间小，很旧。
-晚上12点下到大堂去续房，居然看见一只大老鼠穿堂而过
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ee96100bf8aaa8962d650a3d4fbf5b671a274eae9bb06130e9dc4fcab47a90b
+size 105

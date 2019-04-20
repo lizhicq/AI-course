@@ -1,3 +1,3 @@
-非常好。国内最好的酒店之一。各方面都不错。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f84b94d2ffc87a5da3acdb16368d307335911d900a651de13a1f5ad23f0f6260
+size 70

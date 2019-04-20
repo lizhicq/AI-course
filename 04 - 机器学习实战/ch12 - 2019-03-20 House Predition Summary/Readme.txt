@@ -1,3 +1,3 @@
-﻿命名规则ai05_姓名_房价预测模型总结
-如：ai05_zhangsan_房价预测模型总结.ipynb
-由于数据较大,请不要git数据上去
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e162f9aa0359370310471a752cafac88047351643b6571dfb1ee371431427b
+size 150

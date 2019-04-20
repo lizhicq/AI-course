@@ -1,3 +1,3 @@
-房间设施还可以，但酒店内非常的冷，冬天不推荐入住。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:37b359b6eb24bc4d7d8e190abefc636e2ab195078e7a94b9363dac09b677710a
+size 82

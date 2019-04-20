@@ -1,3 +1,3 @@
-青岛就一个香格里拉是协议的，没房的情况就住这一个酒店，感觉还算可以了．不过还有需要改善的地方了
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f68bf037267afc22bf89240987454727d45dca417a85d12ca86ca73d14f9c00
+size 148

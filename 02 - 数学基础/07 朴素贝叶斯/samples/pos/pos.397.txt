@@ -1,3 +1,3 @@
-还不错，来北京的首选．就是餐厅太贵．．．．．．
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f05bf3a1b8240c49bac27f5b19b6552ccd71e7a5a65bea3fd141cc43e68e83
+size 76

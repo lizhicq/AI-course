@@ -1,3 +1,3 @@
-地理位置好，环境不错，房间很大，但是早餐不如过去丰盛，整体感觉不错。特别强调，服务好！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ce2706d208d4fb7f233f8bc1d38dfeb5e1fc9158ca2535204d34a33b665b6f0
+size 136

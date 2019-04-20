@@ -1,3 +1,3 @@
-房间不算太小，床不错，虽然不太软但也挺舒服，干净。最大的问题是上网太贵，HKD70/HOUR，抢钱似的，为什么香港的酒店都没有免费上网呢？
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3462fb7f417e1d4a47aa460b6daa3dd9754656300d333e392dafbb27810078f
+size 194

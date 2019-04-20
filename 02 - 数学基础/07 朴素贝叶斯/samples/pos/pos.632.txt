@@ -1,3 +1,3 @@
-到敦煌入住这个酒店吃住行都方便，适合驴友。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab1d7051be8fc0277d2b06afd7989df5628fc4e33e71583c7ced1073d053319
+size 70

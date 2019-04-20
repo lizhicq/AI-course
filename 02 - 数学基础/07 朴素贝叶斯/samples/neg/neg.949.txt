@@ -1,3 +1,3 @@
-酒店房间设施陈旧，尤其卫生间设置不合理，洗澡很不方便。前台服务人员态度极其冷淡。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:61fc56f4b59eaebf163f729f90e6ab84569b559972bbfa1ba950aa21bf16d84a
+size 127

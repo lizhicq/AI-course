@@ -1,3 +1,3 @@
-房间太小，无电梯，周围环境还可以，但正在修路，非常嘈杂
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e9cfd930af6331d2b041ad0d82055f6a5a1df63bae355b5ea98abb7c25574ce
+size 88

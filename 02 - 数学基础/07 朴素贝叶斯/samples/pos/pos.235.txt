@@ -1,3 +1,3 @@
-万豪旗下的酒店，管理不错。酒店环境也很好。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:10dd032123377f449b5856fa3d3078c1b1e481e25ef161b3838878717203b95a
+size 70

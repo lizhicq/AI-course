@@ -1,3 +1,3 @@
-入住很多次了都忘记点评了.现在全部补上.从去年底开始基本每个月都去两三天的.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:03109888b7f7dc78337c662bf8293f29b96174ecc28ca68f56085e17b145e1f4
+size 115

@@ -1,3 +1,3 @@
-酒店真的不怎么样，不知道怎么评上四星的。房间又小又旧，早餐也没什么吃的，服务也不好，而且会有骚扰电话
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fa8bc30b4e7e6c5c3773434068e2598b9134c1478ceea5cf04617ce0aa2a140
+size 157

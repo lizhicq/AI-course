@@ -1,3 +1,3 @@
-位置很好，走路到文庙、清凉寺5分钟都用不了，周边公交车很多很方便，就是出租车不太爱去（老城区路窄爱堵车），因为是老宾馆所以设施要陈旧些，
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c3f33f97665475e27c22faafbcff56c9ae700c7f21f078e58cf7b6a9e3c3330
+size 209

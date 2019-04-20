@@ -1,4 +1,3 @@
-出差入住的酒店,订了个三人间.房间没空调,冷得要死,而且被子很潮.火车站旁,步行可到.据说当地的第一名金钥匙是这家
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:60872f4cf31864f3fddc4bff5a3e18895209d87e56ad5341eabda92052547b67
+size 167

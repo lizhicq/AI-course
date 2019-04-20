@@ -1,4 +1,3 @@
-绝对的市中心位置,对面就是丁香莲,隔壁就是卖最好的湖笔的王一品总店.步行5分钟就是最热闹的红旗路,定的是豪华双人房,因为
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a0b4e9291da65bb7042b1cf5812cd21dc5572fee1de351c8f1a1d42ddaee8fe
+size 177

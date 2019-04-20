@@ -1,3 +1,3 @@
-房间的隔音设计实在是不行，墙壁与玻璃外墙之间明显是没堵好，其他还好。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0076017e147b67fe917d0c9b3538bcbd4bb931dffe09569bdc6eac186c078783
+size 109

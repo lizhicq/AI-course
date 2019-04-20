@@ -1,3 +1,3 @@
-有可能是世界上最差的星级酒店，电视都没有，床头柜只配一个，如厕需经走廊......一句话,烂尾楼改装酒店,又不肯花钱,连民工出租屋都不如.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bd8a9dbd2fd3c284b431eaea7f5c617a15c4eae6d06e73c7e7037c7b6d1175e
+size 194

@@ -1,4 +1,3 @@
-地方不好找,其实就是国际青年旅社.环境一般,设施简陋
-到地铁站要走10多分钟.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cea99e73cbbe420241896d6be65f6c5893a5e629c9f494a06f3fd43402bb3c7
+size 112

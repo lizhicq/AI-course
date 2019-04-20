@@ -1,5 +1,3 @@
-酒店的环境很好，但因为周边修路的缘故，进出市区堵的比较厉害。房间内的设施不错，但个别细节的维护还需要提高。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b471b125cdf5d39b1175882cb8c02abdfb9430b81e71241afc48da9a866d2858
+size 172

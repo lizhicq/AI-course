@@ -1,4 +1,3 @@
-Stayed here many times in the past 18 months. This could be a good place to stay if the hotel would maintain the facilities, but they did not. The last two times I stayed (Feb and March) the shower and TV did not work EVEN after I reported them. Will not stay here from now on!
-宾馆反馈 2008年5月16日 ： Thanks your problem , We will chang the shower and Tv ,I will hope you come here again
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a882dabf327f6877ab04651ac9bbf773d907a32362f6fc0d4eef76c53fbed4c
+size 407

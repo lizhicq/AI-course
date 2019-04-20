@@ -1,5 +1,3 @@
-个人认为不符合4星的条件,房间很潮湿,酶味太重,,根本没办法入睡,浴室的条件也不怎么样,总之感觉更像个快捷式酒店
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:43cfffdb8e5b34521686f21e11d1f18e667373e71ef634d9abe0f4f889e614c7
+size 167

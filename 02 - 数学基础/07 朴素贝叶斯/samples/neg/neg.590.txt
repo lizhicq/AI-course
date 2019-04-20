@@ -1,3 +1,3 @@
-万杰国际不能刷卡是件令人最难以接受的事情，房间电视时长不能使用，网络还收费更让人难以接受。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:975088a853da94398e35eafd9695290405d92f961cb587e6951eacd582094fce
+size 142

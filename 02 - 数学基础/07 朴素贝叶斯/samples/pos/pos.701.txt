@@ -1,5 +1,3 @@
-知名度不错，机场打车一说十一经路，就问是如家吧。但是天津机场基本都是黑车。从酒店去机场不到30，机场来居然打表打出50多。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fce05c674280f2e137bd7af30866bfab3576d68ad29a4028495b3a7592a29ef
+size 188

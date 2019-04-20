@@ -1,3 +1,3 @@
-宾馆服务非常好，环境也很好，但在宾馆吃饭太贵了，地角很偏，交通很不方便。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6633e861363cea7fa70fecc4318ffee6960d07a0323977e8a13457979ac25a
+size 115

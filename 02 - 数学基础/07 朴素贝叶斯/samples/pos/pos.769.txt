@@ -1,5 +1,3 @@
-房间稍微小了点 其他没有问题
-很不错 上次和一日本客人一起住的
-对方很中意 因为竟然有 NHK
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:350529240307c0c8171c9a6981e19991bc637cba1a935ff2e9473504adfe8c73
+size 134

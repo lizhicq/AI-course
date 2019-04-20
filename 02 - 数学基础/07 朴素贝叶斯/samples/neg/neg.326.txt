@@ -1,3 +1,3 @@
-环境太吵，晚上有卡拉OK，影响睡觉，服务人员服务态度较差。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d371918cd17af012d73781f0757b5f904f1d99cf221e33689588d98a06b112cf
+size 90

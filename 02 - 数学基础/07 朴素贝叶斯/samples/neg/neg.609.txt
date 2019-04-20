@@ -1,5 +1,3 @@
-房间较旧，墙纸有霉变。环境一般，感觉不象携程上介绍的那样古色古香，而是感觉破旧不堪。不过周围交通比较方便，离景点和汽车站都很近。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f498aefa603bbc3f113fe74792591f60d74a521246cac3fb38957c27b5521351
+size 205

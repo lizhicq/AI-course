@@ -1,3 +1,3 @@
-帮同事订的酒店....反馈回来的信息说这个酒店实在是太差了,和招待所差不多!唐山的酒店性价比一点都不高啊.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf3ea13beefa1d8fdd19e2bc2ca1f135f715d17eb779b1312a1563517efea9d6
+size 152

@@ -1,4 +1,3 @@
-开始住的六层的房子不是特别好，后来调到10层后房间不错。
-大小合适，虽然价格比较贵，但是4星级还是可以的。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6536b865bd5cb03e26bd896599cfdf4ab85f0923abbe31d58f9496fc3aa44e5b
+size 160

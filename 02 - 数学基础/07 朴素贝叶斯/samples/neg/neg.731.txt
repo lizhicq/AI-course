@@ -1,3 +1,3 @@
-特价房间根本没有窗户，空气十分差，房间设施也十分差，是原来饭馆包房改造的，预定时，携程根本没有对此情况进行告知，十分气愤！！！！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4264d99d186678d1b4e0743ec470973e2e2b3cfe89d5e7d83e57c816d25e1d5
+size 199

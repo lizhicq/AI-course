@@ -1,3 +1,3 @@
-地点和位置很好，晚上比较安静，设施较全。对于一般的自助游来说比较合适。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc146d9262f62025a15d9b5043880306422bd09d15c083a20619e6accefcf901
+size 112

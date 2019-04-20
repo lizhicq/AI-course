@@ -1,5 +1,3 @@
-非常好的酒店,除了前台的服务态度.
-房间设施非常好,飞利浦的液晶彩电,还有电脑备用.
-只是,可能因为是通过携程预定而非直接预定的原因,房间的位置非常差.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:227e8b29a1bf4c6fb4e127a6fcb5b253db14eec8929be5afc4301088abc0f004
+size 219

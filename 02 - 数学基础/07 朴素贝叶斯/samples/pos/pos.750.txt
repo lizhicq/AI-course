@@ -1,6 +1,3 @@
-国际大酒店订不到房间，抱着试试的态度订了这家
-感觉还是很不错的，环境也不错
-尤其床和被子，真的很舒服，比国际的好得多
-唯一的缺点是地点有点偏
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc5846ad58f7ee2d2f5a71b98ed775d656b4afb5025575f52835f84a6bcf8f7f
+size 217

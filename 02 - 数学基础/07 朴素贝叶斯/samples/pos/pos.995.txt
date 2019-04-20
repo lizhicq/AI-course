@@ -1,5 +1,3 @@
-前台服务较差，不为客户着想。房间有朋友来需要打扫，呼叫了两个小时也未打扫。房间下水道臭气熏天，卫生间漏水堵水。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd04f026d66d0b2737644f484aa522ae82a27cbd145572b5cd00c351670ffb78
+size 178

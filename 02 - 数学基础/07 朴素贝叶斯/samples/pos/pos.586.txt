@@ -1,3 +1,3 @@
-酒店比较老，但是房间还好。酒店虽不在市中心，但离我出差的公司较近，所以住过几次。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdfc2a45e00149cf210ae6b073615d59d1b3b8724f9eba91d28fd13903211369
+size 127

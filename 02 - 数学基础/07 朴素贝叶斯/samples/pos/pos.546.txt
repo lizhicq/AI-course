@@ -1,4 +1,3 @@
-1、环境不错，离东百很近，就在东街口后面。
-2、房间不错，有电脑，可以免费上网。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:25a32dc0b2db03f8d15a8a59aa573d1bc1b9f804f14e020cd1a87dc3842ae1c4
+size 123

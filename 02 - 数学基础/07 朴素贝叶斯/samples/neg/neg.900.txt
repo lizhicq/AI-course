@@ -1,3 +1,3 @@
-酒店位置十分偏远，交通，购物，餐饮极不方便
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1549dfa57e0c9506051991420f601491872612083e72c159039ec616eb7f2c28
+size 70

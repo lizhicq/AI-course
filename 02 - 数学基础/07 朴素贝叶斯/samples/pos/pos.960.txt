@@ -1,3 +1,3 @@
-前台的服务很不错，快捷、周到、让人感觉很好。房间环境还可以，就是床垫太差，躺在上面能感觉到弹簧，该换了。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad43cebb4ee14951284fdec5ddcc04944aa2aec7ccc6469b82a414f4cdcc739b
+size 163

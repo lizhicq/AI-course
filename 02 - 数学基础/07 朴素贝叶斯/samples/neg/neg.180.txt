@@ -1,3 +1,3 @@
-真不象是一家四星级的酒店，评三星都觉得高，房间很小并且很旧，到处都觉得乱糟糟的，一楼大堂很吵。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f55d1331487c8fa57be253957a7f3b7931eaab407f19a89d670f9bdfb9b9a6b
+size 148

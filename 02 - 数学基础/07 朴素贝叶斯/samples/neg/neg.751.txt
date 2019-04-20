@@ -1,4 +1,3 @@
-非常差的服. 房和床比小, 人房原本分床床, 一定要另外充明是床, 否床, 本人因此
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2d5ebdc50bf91770108da020b92b26d16bf6e5a13c3cda075312ec6f960bbc7
+size 116

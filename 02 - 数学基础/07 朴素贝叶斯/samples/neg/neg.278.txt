@@ -1,3 +1,3 @@
-住了几次，价格高，房间差，床又小。要不是在携程上宜宾就这几个宾馆，我早不住了。今天去了，服务态度极差，我发誓再也不去了。郁闷
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:836be0dcd88d3dd51b856fdb4231666512084b6d4f3b565b728b41372f180f3d
+size 193

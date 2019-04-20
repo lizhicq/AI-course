@@ -1,3 +1,3 @@
-在宁夏来说这人酒店应该是算好的一个酒店了吧.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3db386e382a5103a2642bb602f11b13cb1de1e874b63e67e24e8d62afdcd5604
+size 71

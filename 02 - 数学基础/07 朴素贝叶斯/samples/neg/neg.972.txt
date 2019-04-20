@@ -1,5 +1,3 @@
-位置相当偏僻,晚上从五环出来,该拐第一个弯的地方连路灯都没有,房间小,二楼的房间要从三楼走下去,没体会他们能提供什么服务,连出租车都不给定.绝对不建议入住.
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:28273541a1a53dc9249c88ad6fef2ec3692ab9ec8c995b3d681bfd5c89a4cb5f
+size 231

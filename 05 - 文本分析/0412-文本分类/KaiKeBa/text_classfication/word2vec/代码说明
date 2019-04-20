@@ -1,0 +1,5 @@
+word2vec_gensim.py
+调用gensim来训练word2vec
+
+word2vec_keras.py
+使用keras来写一个网络来训练word2vec

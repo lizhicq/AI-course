@@ -1,3 +1,3 @@
-酒店设施陈旧，浴缸排水不畅，入住无房，一间16：00，一间22：00，早餐差
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7375db6fb370e635ba9a10d84f60c80552257182641904a151b55fe536f08ae5
+size 105

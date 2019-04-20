@@ -1,6 +1,3 @@
-地理位置比较偏僻，但是不是不喜欢它的主要原因。
-280的房间，装修烂的不得了，地毯油黑油黑的，洗了澡都不敢光脚踩上去。
-卫生消毒肯定不到位。
-宽带不稳定，常掉线。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f931120aaa02b5ac4bfcdcbafadb6899e727bab2a7ae8459ac400f0ef5a2a36
+size 244

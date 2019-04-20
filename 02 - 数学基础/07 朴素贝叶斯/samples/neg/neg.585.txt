@@ -1,3 +1,3 @@
-酒店位置还好，设施太陈旧，太老了！房间面积太小，硬件的设施糟糕！枕头太低！床垫也硬！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3556f76183ccd91a44499181a415aab7bd96c21e69c382cc71b8388cd6fbf633
+size 133

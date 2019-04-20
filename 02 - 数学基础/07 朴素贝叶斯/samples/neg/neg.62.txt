@@ -1,3 +1,3 @@
-建议订别的酒店,省得心痛,因为这家酒店在我看来是多么的糟糕
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4422178197fbf5d58d3b0da63ed97a61ba43097a8f0d983b10f407395d4c113
+size 90

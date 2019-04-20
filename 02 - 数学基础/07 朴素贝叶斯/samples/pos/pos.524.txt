@@ -1,3 +1,3 @@
-住了3天的五号楼,感觉相当不错.无论客房还是餐饮部的员工都能给客人以真诚微笑的服务.酒店附近交通方便,离市中心和各景区都不远.下次还会来住.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a535321ebead599d5fd1bd2df241bb6a88b51fc7650112e5c418d28d0ca08f1c
+size 203

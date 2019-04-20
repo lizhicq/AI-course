@@ -1,3 +1,3 @@
-很好的酒店，紧靠海边，除了入住当晚网络不好，其他都很满意，对了也还有一点出来打车不容易，不过走出路口这段路风景也不错，呵呵。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:18fa61b7a1a93493c4dfbab2680783cd334d8314b3a08ec5e05707c02c3357d5
+size 193

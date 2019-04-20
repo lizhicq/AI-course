@@ -1,4 +1,3 @@
-酒店员工比较s板，也许我们用携程的缘故，反正以后不去了！！！
-宾馆反馈 2008年7月24日 ： 尊敬的宾客,感谢您的点评.希望在您方便的情况下,将意见和建议反映给酒店的大堂副理,我们将尽力改善,谢谢!
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee5749feccaf365d1d21c079dabf7ce467b1a4edcf853ffa94c19897b5c2f943
+size 276

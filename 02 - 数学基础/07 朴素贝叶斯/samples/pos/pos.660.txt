@@ -1,3 +1,3 @@
-比较满意，位置不错，门前路已经修好。装修、设施均较新，细节服务很好，没有接到骚扰电话。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade2f2cd3022098cfdd18ea9ba4f69d9938953a3fbd5d63b766daa12dd13920f
+size 136

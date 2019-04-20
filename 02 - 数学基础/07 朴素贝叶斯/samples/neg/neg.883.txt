@@ -1,3 +1,3 @@
-只能说...恐怖...,特价房里面居然有两扇门，虽然大不太，但也让你睡不好...
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:30a3b31a2eefe098e6dddd602188f5b44a1b524cf6220b00fa0a96bf2ba82583
+size 107

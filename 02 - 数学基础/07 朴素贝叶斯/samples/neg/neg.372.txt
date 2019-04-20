@@ -1,4 +1,3 @@
-这个鬼地方居然是三星简直让人无法相信
-差，太差了，可惜没0分，有0分一定打0分
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c5804cfccd6a9e080df5acdcce19075b22000238c8e1c8fc715353c5bc443e
+size 118

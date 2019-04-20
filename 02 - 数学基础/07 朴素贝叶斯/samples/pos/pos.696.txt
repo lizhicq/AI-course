@@ -1,3 +1,3 @@
-不能住靠马路的房间,太吵,一晚上没睡好.旁边有个大超市,吃饭方便
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:079efe7361f4faaceb90a67b3f77472d1056d5093f22fb8f4c433fba28227dce
+size 95

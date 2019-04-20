@@ -1,3 +1,3 @@
-地理位置很好，离洋货市场很近。房间装修还可以，就是有点小。电视是液晶的，总体感觉不错。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5095136ba9878cd6856363ebfdd3771d9132d72bb01beb2a93905cbe618927b7
+size 136

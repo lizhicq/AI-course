@@ -1,3 +1,3 @@
-地点不错，从客运站坐TAXI到饭店大约7.5块，柜台小姐先生服务很好！房间更是优，乾净整洁舒服，一晚355的价格，算很划算。不过早餐有点贵！下次去泉州 还会去住。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:663b62b235675d2d8a1d90e5a49d1712f6cdef7703e275e19266ce9d59cf2eeb
+size 228

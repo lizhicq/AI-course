@@ -1,4 +1,3 @@
-可以说是金华最好的宾馆了，但不是性价比最高的。
-金华没有比它好的，但是同星级的不是最好，还过的去吧，价格高了点
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:52c60ea97295cd1bc0000917ed3a847a52d446c215ae3e168f63061f5df963ee
+size 172

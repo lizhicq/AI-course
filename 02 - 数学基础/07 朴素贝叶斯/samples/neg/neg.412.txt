@@ -1,3 +1,3 @@
->三星级的大堂；=零星级的房间；<-三星级的卫生；早餐尚可
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:404ad89501bb53c655c1db4739d119214982d786a66d0e8d6c2a5a3f5e46340d
+size 86

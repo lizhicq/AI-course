@@ -1,5 +1,3 @@
-1.收了包天的10元话费,却打不出电话;
-2.装牙刷的盒子是一个空盒子
-3.不提供购物袋
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ddb25c37db542d71844fa3c3f02d9ae44dd776d9fdfeab308b2e7f135d2642
+size 119

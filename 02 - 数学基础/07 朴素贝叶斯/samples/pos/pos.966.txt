@@ -1,4 +1,3 @@
-亚运村地区, 以这个价格, 还是相当不错的.
-交通方便, 楼下的酒楼很有特点(味道江湖),日日客满, 8:00PM以后有表演, 相当不错,来晚了占不到座位.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:adf9ef8349307687165483306cba9dde896d524e55a0bd24eea18451434a0aee
+size 197

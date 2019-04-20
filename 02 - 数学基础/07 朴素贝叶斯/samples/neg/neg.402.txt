@@ -1,3 +1,3 @@
-这是本人用携程预定的最糟糕的酒店，建议取消该酒店的合作。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92d01497bb726b722e7589631bd26fb088138668616415fdc0ef6fe0b4f9af2
+size 91

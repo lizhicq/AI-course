@@ -1,6 +1,3 @@
-酒店比较陈旧,房间也不大,有股味道.
-早餐一般.
-房价也不便宜!
-总之很一般.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d3f8c34295d3ea7cd71e264c0ddc069c0719192d31ce1539635d983317a6ed
+size 112

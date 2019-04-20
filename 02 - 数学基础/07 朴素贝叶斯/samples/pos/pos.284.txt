@@ -1,3 +1,3 @@
-房间很大,老公每次去都定那里,在郑州算是不错的酒店.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:108d33338fe9ac339c287c8c91432cf988a98a0de10bb8fdd044f71405607ecb
+size 79

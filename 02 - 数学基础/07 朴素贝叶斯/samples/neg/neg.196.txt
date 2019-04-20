@@ -1,5 +1,3 @@
-普通游客旅馆 还三星 让我伤心 店名好大 奇差无比
-补充点评 2006年12月8日 ： 还说有地下车库 谁敢下去 晕 狭小 黑暗 要卡壳儿的
-CTRIP上怎么让它这么忽悠顾客的 ？！！！！！！！
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0939af6d214e5c677a3dbbed13a04c5ce9232a3c810270b36c1e1ee577714027
+size 248

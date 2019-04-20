@@ -1,4 +1,3 @@
-总体感觉还不错。房间很干净、简洁。
-网上所披露的位于海河最美的一段，特意要了6层的房间，可是却没看到海河的影子……
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f118792004aacb6218d4ab3481bc145383556ab0605658d6b89935fc3493bb
+size 176

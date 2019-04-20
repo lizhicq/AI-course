@@ -1,4 +1,3 @@
-嗯嗯，基本满意，只是对和我同去的老外分到的房间就比我N大有点不爽。
-浴缸的落水坏掉了，只能淋浴。不过来修的倒是挺快，虽然米有完全解决问题，至少还是很积极滴。
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1faf70d069c15d905289d4c191a09b1cb399584fce1e0ce912ff80477bda8c27
+size 239

@@ -1,4 +1,3 @@
-房间应该超出30平米,是HK同级酒店中少有的大;重装之后,设备也不错.房
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e0feea4b7182ae459c58cf3b9f13579299625317c4fd2c4cfe3a38c89876db4
+size 102

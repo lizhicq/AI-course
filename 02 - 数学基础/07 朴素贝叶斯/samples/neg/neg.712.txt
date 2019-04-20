@@ -1,3 +1,3 @@
-酒店位置还可以 价格也勉强 房间比较陈旧 卫生状况也不太近人意 总之不象三星级酒店
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ab719dbccb0d2d15697f3f53ce80be24957de86f39652619b5b3d49068eb7dc
+size 122

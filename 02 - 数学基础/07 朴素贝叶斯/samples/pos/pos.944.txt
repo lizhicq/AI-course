@@ -1,4 +1,3 @@
-房间总的来说还不错，早餐做为四星级酒店来说一般。酒店外面小吃或者一般的酒店少
-总的来说，对我这样出差的人来说还不错了
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd06957948a0e5569c4d5393ed23f1d4b787aecee6be892bbf7725a008809cd
+size 181

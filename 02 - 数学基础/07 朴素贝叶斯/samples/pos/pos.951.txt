@@ -1,3 +1,3 @@
-大床房还不错，其他的没有看过。位置很好。希望菜做得更好吃
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:05395b5fe852cfe7a0314263da8fe792f9d56bbed45806a37069f0e014516c86
+size 91

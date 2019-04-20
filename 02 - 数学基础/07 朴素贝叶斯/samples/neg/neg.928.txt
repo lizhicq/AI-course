@@ -1,5 +1,3 @@
-简单的一个字，差，就像是招待所，酒店比较偏，周边没有吃饭的地方，只有一家酒店自己开的餐馆，里面的东西两个字，难吃。
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0037b550f3eca02f3775da5c28e9a16d5d07ebe58a83b66732b66f293764f114
+size 184

@@ -1,5 +1,3 @@
-一个字：差！
-设施差，服务差，环境差。能想到的一切都差！！！！！
-宾馆反馈 2007年12月10日 ： 酒店已注意到了,部分房间已开设改建
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4113a3ecd1230030af20309ad49ae3c70e79a92e58c57bed3d0b557b9d4ec06b
+size 190
